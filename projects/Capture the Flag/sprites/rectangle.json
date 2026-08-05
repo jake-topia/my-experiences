@@ -1,0 +1,24 @@
+{
+  "gameId": "vuCiCM2TT6UzdjJGCZ1n",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "webImageOptions": null,
+  "rectOptions": {
+    "borderRadius": 0,
+    "strokeWeight": 0,
+    "topAdjust": 0,
+    "width": 0,
+    "fill": "#000000",
+    "opacity": 1,
+    "displayLayer": "BOTTOM",
+    "stroke": "#000000",
+    "height": 0
+  },
+  "spriteId": "rectangle",
+  "textOptions": null,
+  "name": "rectangle",
+  "ellipseOptions": null,
+  "type": "RECT",
+  "createdISO": "2026-06-24T18:39:12.596Z",
+  "uniqueId": ""
+}

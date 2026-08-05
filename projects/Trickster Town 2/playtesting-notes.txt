@@ -1,0 +1,5 @@
+The entirety of the popup ui rect or text sprites should NOT be interactable - there is no reason and this likely messes with sprite ordering. The I understand my Role and "X" buttons obviously need to remain interactable but anything that isnt actually clicked needs to have interactability unset in code.
+
+The optimistic SELECTED UI needs one small tweak. When  we receive host update on who we Chose, we do not need to update the SELECTED UI at all. Currently this update is resulting in scenarios like: I select player1, then I select player2, then host recognition of selection of player1 comes back and makes me reselect player1.
+
+Possibly still a data race in the post night resolution phase. Rarely everyone got no-op actions, no one was notified of their action results. Take with a grain of salt as it could be that the host was tabbed out and didn't get some messages. Could be related to this error: MapVariable nightActionMap 717 unable to find map item, likely remove out of band. (5) ['719', '715', '718', '716', '717']

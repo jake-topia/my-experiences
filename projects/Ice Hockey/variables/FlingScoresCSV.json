@@ -1,0 +1,11 @@
+{
+  "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+  "defaultValue": "",
+  "scope": "SERVER",
+  "name": "FlingScoresCSV",
+  "description": "",
+  "type": "STRING",
+  "variableId": "FlingScoresCSV",
+  "createdISO": "2026-06-24T18:35:30.016Z",
+  "uniqueId": ""
+}

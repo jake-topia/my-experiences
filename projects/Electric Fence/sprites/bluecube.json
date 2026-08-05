@@ -1,0 +1,18 @@
+{
+  "gameId": "t4fX3gjnkkhVJmK4K79x",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": {
+    "topAdjust": 0,
+    "topUrl": "https://topia-games-imagery.s3.us-east-1.amazonaws.com/sharks%2Band%2Bminnows/Blue+Electric+Cube.png",
+    "bottomUrl": ""
+  },
+  "spriteId": "bluecube",
+  "textOptions": null,
+  "name": "bluecube",
+  "ellipseOptions": null,
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-24T18:34:55.425Z",
+  "uniqueId": ""
+}

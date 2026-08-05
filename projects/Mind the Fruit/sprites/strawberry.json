@@ -1,0 +1,19 @@
+{
+  "gameId": "OJMSvhJNq1lBzExJVMr3",
+  "rectOptions": null,
+  "spriteId": "strawberry",
+  "textOptions": null,
+  "name": "strawberry",
+  "ellipseOptions": null,
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-15T22:18:20.891Z",
+  "uniqueId": "",
+  "webImageOptions": {
+    "topAdjust": 0,
+    "topUrl": "",
+    "bottomAdjust": "BRING_TO_FRONT",
+    "bottomUrl": "https://i.imgur.com/gATIKae.png"
+  },
+  "spriteWorkspaceString": null,
+  "variables": []
+}

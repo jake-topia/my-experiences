@@ -1,0 +1,33 @@
+{
+  "gameId": "qU2KFAvzqkzWyUUEK196",
+  "variables": [
+    {
+      "name": "stillJoined",
+      "description": "",
+      "defaultValue": false,
+      "type": "BOOLEAN",
+      "uniqueId": "",
+      "createdISO": "2026-06-03T20:36:31.890Z",
+      "gameId": "qU2KFAvzqkzWyUUEK196",
+      "variableId": "LNansZl72JPlYFBZXQ0T",
+      "gameEventId": "playerOut"
+    },
+    {
+      "name": "playerID",
+      "type": "STRING",
+      "description": "",
+      "defaultValue": "",
+      "uniqueId": "",
+      "createdISO": "2026-06-03T20:36:31.890Z",
+      "gameId": "qU2KFAvzqkzWyUUEK196",
+      "variableId": "ZyWssilCI7eWrhGKTfhd",
+      "gameEventId": "playerOut"
+    }
+  ],
+  "name": "playerOut",
+  "description": "The player is no longer in the game",
+  "type": "GAME_ENGINE",
+  "gameEventId": "playerOut",
+  "createdISO": "2026-06-03T20:36:31.751Z",
+  "uniqueId": ""
+}

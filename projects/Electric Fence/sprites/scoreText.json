@@ -1,0 +1,22 @@
+{
+  "gameId": "t4fX3gjnkkhVJmK4K79x",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": null,
+  "spriteId": "scoreText",
+  "textOptions": {
+    "fontFamily": "Arial",
+    "color": "#000000",
+    "size": 24,
+    "topAdjust": 0,
+    "width": "1000",
+    "weight": "normal",
+    "displayLayer": "TOP"
+  },
+  "name": "scoreText",
+  "ellipseOptions": null,
+  "type": "TEXT",
+  "createdISO": "2026-06-24T18:34:55.427Z",
+  "uniqueId": ""
+}

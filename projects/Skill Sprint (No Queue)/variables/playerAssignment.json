@@ -1,0 +1,11 @@
+{
+  "gameId": "liBInmTrxMkugiXKtfzd",
+  "defaultValue": 0,
+  "scope": "LOCAL",
+  "name": "playerAssignment",
+  "description": "",
+  "type": "NUMBER",
+  "variableId": "playerAssignment",
+  "createdISO": "2025-06-23T15:25:38.502Z",
+  "uniqueId": ""
+}

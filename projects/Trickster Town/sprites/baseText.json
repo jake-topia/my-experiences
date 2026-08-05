@@ -1,0 +1,22 @@
+{
+  "gameId": "ntSt18GsUu2s7MoylXZ5",
+  "rectOptions": null,
+  "webImageOptions": null,
+  "spriteId": "baseText",
+  "name": "baseText",
+  "ellipseOptions": null,
+  "type": "TEXT",
+  "createdISO": "2026-06-30T22:36:22.250Z",
+  "uniqueId": "",
+  "textOptions": {
+    "fontFamily": "Arial",
+    "color": "#000000",
+    "size": 24,
+    "width": 600,
+    "weight": "normal",
+    "topAdjust": 10,
+    "displayLayer": "TOP"
+  },
+  "spriteWorkspaceString": null,
+  "variables": []
+}

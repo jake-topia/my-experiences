@@ -1,0 +1,16 @@
+{
+  "name": "Last Card",
+  "height": "1000",
+  "isPlatformGame": false,
+  "description": "",
+  "width": "1000",
+  "category": "",
+  "maxPlayers": "4",
+  "usePhysics": false,
+  "defaultStage": "logo",
+  "useLegacyWorkspaces": false,
+  "createdISO": "2026-06-24T18:37:12.825Z",
+  "gameId": "K1apTsQlVJkkGlLXCS2f",
+  "creator": "7uLBqnJ3KxNXA6Nqtgu3v1Xi1ge2",
+  "coverImage": "gameCoverImages/K1apTsQlVJkkGlLXCS2f"
+}

@@ -1,0 +1,22 @@
+{
+  "gameId": "JgsO2kR0r5mM5iYsubyO",
+  "variables": [
+    {
+      "name": "countdownNextValue",
+      "type": "NUMBER",
+      "description": "",
+      "defaultValue": 0,
+      "uniqueId": "",
+      "createdISO": "2025-06-02T19:52:50.173Z",
+      "gameId": "JgsO2kR0r5mM5iYsubyO",
+      "variableId": "1fOAexw6pKWRkbNNwVhN",
+      "gameEventId": "handleCountdownTick"
+    }
+  ],
+  "name": "handleCountdownTick",
+  "description": "",
+  "type": "GAME_ENGINE",
+  "gameEventId": "handleCountdownTick",
+  "createdISO": "2025-06-02T19:52:49.844Z",
+  "uniqueId": ""
+}

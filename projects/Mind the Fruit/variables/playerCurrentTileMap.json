@@ -1,0 +1,10 @@
+{
+  "gameId": "OJMSvhJNq1lBzExJVMr3",
+  "scope": "SERVER",
+  "name": "playerCurrentTileMap",
+  "type": "MAP",
+  "variableId": "playerCurrentTileMap",
+  "createdISO": "2026-06-12T22:49:13.920Z",
+  "uniqueId": "",
+  "description": "playerCurrentTileMap: {\"123\": \"t17\"}"
+}

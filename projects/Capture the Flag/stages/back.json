@@ -1,0 +1,13 @@
+{
+  "gameId": "vuCiCM2TT6UzdjJGCZ1n",
+  "webImageOptions": {
+    "topUrl": "",
+    "bottomUrl": "https://ee-capture-flag.s3.us-east-1.amazonaws.com/Capture+the+Flag+background+stage.png"
+  },
+  "name": "back",
+  "description": "",
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-24T18:39:12.594Z",
+  "uniqueId": "",
+  "stageId": "back"
+}

@@ -1,0 +1,11 @@
+{
+  "gameId": "liBInmTrxMkugiXKtfzd",
+  "defaultValue": false,
+  "scope": "SERVER",
+  "name": "sendDNF",
+  "description": "variable watched to signal the sending of DNF leaderboard slots to iframes",
+  "type": "BOOLEAN",
+  "variableId": "sendDNF",
+  "createdISO": "2025-06-23T15:25:38.503Z",
+  "uniqueId": ""
+}

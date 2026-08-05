@@ -1,0 +1,23 @@
+{
+  "gameId": "iSJTYpjfgqZ3Qecw9RP5",
+  "rectOptions": null,
+  "webImageOptions": null,
+  "spriteId": "lightButtonBorder",
+  "textOptions": null,
+  "name": "lightButtonBorder",
+  "type": "ELLIPSE",
+  "createdISO": "2026-06-08T18:25:56.461Z",
+  "uniqueId": "",
+  "ellipseOptions": {
+    "strokeWeight": 0,
+    "fill": "#000000",
+    "opacity": 1,
+    "displayLayer": "TOP",
+    "stroke": "#000000",
+    "width": "30",
+    "height": "30",
+    "topAdjust": 10
+  },
+  "spriteWorkspaceString": null,
+  "variables": []
+}

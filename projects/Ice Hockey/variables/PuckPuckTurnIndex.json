@@ -1,0 +1,11 @@
+{
+  "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+  "defaultValue": 0,
+  "scope": "SERVER",
+  "name": "PuckPuckTurnIndex",
+  "description": "",
+  "type": "NUMBER",
+  "variableId": "PuckPuckTurnIndex",
+  "createdISO": "2026-06-24T18:35:30.018Z",
+  "uniqueId": ""
+}

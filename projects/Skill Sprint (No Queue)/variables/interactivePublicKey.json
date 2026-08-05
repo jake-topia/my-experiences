@@ -1,0 +1,11 @@
+{
+  "gameId": "liBInmTrxMkugiXKtfzd",
+  "defaultValue": "9w8QS7sBOrgOQghtcHDY",
+  "scope": "CONFIGURATION",
+  "name": "interactivePublicKey",
+  "description": "",
+  "type": "STRING",
+  "variableId": "interactivePublicKey",
+  "createdISO": "2025-06-23T15:25:38.501Z",
+  "uniqueId": ""
+}

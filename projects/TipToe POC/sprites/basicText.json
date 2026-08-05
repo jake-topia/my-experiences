@@ -1,0 +1,22 @@
+{
+  "gameId": "UJkR6vQN474DtZu3jtdP",
+  "rectOptions": null,
+  "webImageOptions": null,
+  "spriteId": "basicText",
+  "name": "basicText",
+  "ellipseOptions": null,
+  "type": "TEXT",
+  "createdISO": "2025-09-29T22:14:13.057Z",
+  "uniqueId": "",
+  "textOptions": {
+    "fontFamily": "Arial",
+    "color": "#000000",
+    "width": 600,
+    "weight": "normal",
+    "bottomAdjust": "BRING_TO_FRONT",
+    "topAdjust": 110,
+    "displayLayer": "BOTTOM",
+    "size": "42"
+  },
+  "variables": []
+}

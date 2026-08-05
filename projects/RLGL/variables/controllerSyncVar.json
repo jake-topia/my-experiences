@@ -1,0 +1,11 @@
+{
+  "gameId": "iSJTYpjfgqZ3Qecw9RP5",
+  "defaultValue": 0,
+  "scope": "SERVER",
+  "name": "controllerSyncVar",
+  "description": "When the host assigns a controller, it writes that player’s ID into the sprite’s text field in syncControllerAssignment (~line 650).",
+  "type": "NUMBER",
+  "variableId": "controllerSyncVar",
+  "createdISO": "2026-06-08T22:57:00.285Z",
+  "uniqueId": ""
+}

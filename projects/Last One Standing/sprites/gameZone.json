@@ -1,0 +1,19 @@
+{
+  "gameId": "qU2KFAvzqkzWyUUEK196",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": {
+    "bottomAdjust": "BRING_TO_BACK",
+    "topAdjust": 0,
+    "topUrl": "",
+    "bottomUrl": "https://ee-last-one-standing.s3.us-east-1.amazonaws.com/Background.PNG"
+  },
+  "spriteId": "gameZone",
+  "textOptions": null,
+  "name": "gameZone",
+  "ellipseOptions": null,
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-03T20:36:31.752Z",
+  "uniqueId": ""
+}

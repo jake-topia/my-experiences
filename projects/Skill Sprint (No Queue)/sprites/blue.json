@@ -1,0 +1,25 @@
+{
+  "gameId": "liBInmTrxMkugiXKtfzd",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "webImageOptions": null,
+  "rectOptions": {
+    "borderRadius": 0,
+    "bottomAdjust": "BRING_TO_FRONT",
+    "strokeWeight": 0,
+    "topAdjust": "0",
+    "width": "400",
+    "fill": "#0065FF",
+    "opacity": 1,
+    "displayLayer": "TOP",
+    "stroke": "#0065FF",
+    "height": "250"
+  },
+  "spriteId": "blue",
+  "textOptions": null,
+  "name": "blue",
+  "ellipseOptions": null,
+  "type": "RECT",
+  "createdISO": "2025-06-23T15:25:38.505Z",
+  "uniqueId": ""
+}

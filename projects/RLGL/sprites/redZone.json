@@ -1,0 +1,25 @@
+{
+  "gameId": "iSJTYpjfgqZ3Qecw9RP5",
+  "webImageOptions": null,
+  "spriteId": "redZone",
+  "textOptions": null,
+  "name": "redZone",
+  "ellipseOptions": null,
+  "type": "RECT",
+  "createdISO": "2026-06-08T18:29:03.917Z",
+  "uniqueId": "",
+  "rectOptions": {
+    "borderRadius": 0,
+    "bottomAdjust": "BRING_TO_FRONT",
+    "strokeWeight": 0,
+    "fill": "#ff0000",
+    "opacity": "0.4",
+    "stroke": "#ff0000",
+    "topAdjust": 30,
+    "displayLayer": "TOP",
+    "width": "500",
+    "height": "500"
+  },
+  "spriteWorkspaceString": null,
+  "variables": []
+}

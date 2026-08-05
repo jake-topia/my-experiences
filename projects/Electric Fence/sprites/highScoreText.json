@@ -1,0 +1,22 @@
+{
+  "gameId": "t4fX3gjnkkhVJmK4K79x",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": null,
+  "spriteId": "highScoreText",
+  "textOptions": {
+    "fontFamily": "Helvetica",
+    "color": "#000000",
+    "size": "60",
+    "topAdjust": 0,
+    "width": 600,
+    "weight": "normal",
+    "displayLayer": "TOP"
+  },
+  "name": "highScoreText",
+  "ellipseOptions": null,
+  "type": "TEXT",
+  "createdISO": "2026-06-24T18:34:55.426Z",
+  "uniqueId": ""
+}

@@ -1,0 +1,11 @@
+{
+  "gameId": "ntSt18GsUu2s7MoylXZ5",
+  "scope": "SERVER",
+  "name": "configuredNightSeconds",
+  "description": "",
+  "variableId": "configuredNightSeconds",
+  "createdISO": "2026-06-30T22:02:59.322Z",
+  "uniqueId": "",
+  "defaultValue": "30",
+  "type": "NUMBER"
+}

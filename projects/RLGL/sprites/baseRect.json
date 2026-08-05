@@ -1,0 +1,24 @@
+{
+  "gameId": "iSJTYpjfgqZ3Qecw9RP5",
+  "webImageOptions": null,
+  "rectOptions": {
+    "borderRadius": 0,
+    "strokeWeight": 0,
+    "topAdjust": 60,
+    "width": "1",
+    "fill": "#000000",
+    "opacity": 1,
+    "displayLayer": "TOP",
+    "stroke": "#000000",
+    "height": "1"
+  },
+  "spriteId": "baseRect",
+  "textOptions": null,
+  "name": "baseRect",
+  "ellipseOptions": null,
+  "type": "RECT",
+  "createdISO": "2026-06-12T18:56:42.525Z",
+  "uniqueId": "",
+  "spriteWorkspaceString": null,
+  "variables": []
+}

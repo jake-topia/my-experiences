@@ -1,0 +1,32 @@
+{
+  "gameId": "vuCiCM2TT6UzdjJGCZ1n",
+  "variables": [
+    {
+      "name": "team",
+      "type": "STRING",
+      "description": "",
+      "uniqueId": "",
+      "createdISO": "2026-06-24T18:39:12.733Z",
+      "gameId": "vuCiCM2TT6UzdjJGCZ1n",
+      "variableId": "1xF3KyzwsaVopPbxkAVs",
+      "gameEventId": "playerSelectsTeam"
+    },
+    {
+      "name": "playerId",
+      "type": "NUMBER",
+      "description": "",
+      "defaultValue": 0,
+      "uniqueId": "",
+      "createdISO": "2026-06-24T18:39:12.733Z",
+      "gameId": "vuCiCM2TT6UzdjJGCZ1n",
+      "variableId": "SpLNlJvsUy9Y0ILUEbV7",
+      "gameEventId": "playerSelectsTeam"
+    }
+  ],
+  "name": "playerSelectsTeam",
+  "description": "",
+  "type": "INPUT",
+  "gameEventId": "playerSelectsTeam",
+  "createdISO": "2026-06-24T18:39:12.594Z",
+  "uniqueId": ""
+}

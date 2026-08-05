@@ -1,0 +1,18 @@
+{
+  "gameId": "K1apTsQlVJkkGlLXCS2f",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": {
+    "topAdjust": 0,
+    "topUrl": "https://ee-last-card.s3.us-east-1.amazonaws.com/Card_Back_Background.png",
+    "bottomUrl": ""
+  },
+  "spriteId": "card_background",
+  "textOptions": null,
+  "name": "card_background",
+  "ellipseOptions": null,
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-24T18:37:15.913Z",
+  "uniqueId": ""
+}

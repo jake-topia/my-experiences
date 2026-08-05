@@ -1,0 +1,11 @@
+{
+  "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+  "defaultValue": 0,
+  "scope": "SERVER",
+  "name": "FlingTurnIndex",
+  "description": "",
+  "type": "NUMBER",
+  "variableId": "FlingTurnIndex",
+  "createdISO": "2026-06-24T18:35:30.016Z",
+  "uniqueId": ""
+}

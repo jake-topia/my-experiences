@@ -1,0 +1,22 @@
+{
+  "gameId": "kZ72ysNfExPtFok0VxXr",
+  "variables": [
+    {
+      "name": "theme",
+      "type": "STRING",
+      "description": "",
+      "defaultValue": "moles",
+      "uniqueId": "",
+      "createdISO": "2026-06-24T18:38:00.289Z",
+      "gameId": "kZ72ysNfExPtFok0VxXr",
+      "variableId": "YvnZoM0IiEuIQsEUKZVx",
+      "gameEventId": "startGame"
+    }
+  ],
+  "name": "startGame",
+  "description": "",
+  "type": "INPUT",
+  "gameEventId": "startGame",
+  "createdISO": "2026-06-24T18:38:00.091Z",
+  "uniqueId": ""
+}

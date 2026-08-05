@@ -1,0 +1,21 @@
+{
+  "gameId": "AiSjd39UyVd5W9pWNXCZ",
+  "variables": [
+    {
+      "name": "playerName",
+      "type": "STRING",
+      "description": "",
+      "uniqueId": "",
+      "createdISO": "2026-06-03T20:08:35.044Z",
+      "gameId": "AiSjd39UyVd5W9pWNXCZ",
+      "variableId": "UKXDIYXcYkmuFFfzgQjU",
+      "gameEventId": "winner"
+    }
+  ],
+  "name": "winner",
+  "description": "",
+  "type": "GAME_ENGINE",
+  "gameEventId": "winner",
+  "createdISO": "2026-06-03T20:08:34.798Z",
+  "uniqueId": ""
+}

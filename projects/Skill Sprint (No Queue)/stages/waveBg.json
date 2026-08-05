@@ -1,0 +1,13 @@
+{
+  "gameId": "liBInmTrxMkugiXKtfzd",
+  "webImageOptions": {
+    "topUrl": "",
+    "bottomUrl": "https://sdk-skill-sprint.s3.us-east-1.amazonaws.com/wavebg.png"
+  },
+  "name": "waveBg",
+  "description": "",
+  "type": "WEB_IMAGE",
+  "createdISO": "2025-06-23T15:25:38.503Z",
+  "uniqueId": "",
+  "stageId": "waveBg"
+}

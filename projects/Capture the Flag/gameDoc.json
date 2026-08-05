@@ -1,0 +1,16 @@
+{
+  "name": "Capture the Flag",
+  "height": "1620",
+  "isPlatformGame": false,
+  "description": "",
+  "width": "2880",
+  "category": "",
+  "maxPlayers": "50",
+  "usePhysics": true,
+  "defaultStage": "logo",
+  "useLegacyWorkspaces": false,
+  "createdISO": "2026-06-24T18:39:09.429Z",
+  "gameId": "vuCiCM2TT6UzdjJGCZ1n",
+  "creator": "7uLBqnJ3KxNXA6Nqtgu3v1Xi1ge2",
+  "coverImage": "gameCoverImages/vuCiCM2TT6UzdjJGCZ1n"
+}

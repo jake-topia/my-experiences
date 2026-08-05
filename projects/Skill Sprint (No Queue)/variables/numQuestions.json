@@ -1,0 +1,11 @@
+{
+  "gameId": "liBInmTrxMkugiXKtfzd",
+  "defaultValue": "10",
+  "scope": "CONFIGURATION",
+  "name": "numQuestions",
+  "description": "",
+  "type": "STRING",
+  "variableId": "numQuestions",
+  "createdISO": "2025-06-23T15:25:38.501Z",
+  "uniqueId": ""
+}

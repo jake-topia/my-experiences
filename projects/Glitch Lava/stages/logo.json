@@ -1,0 +1,13 @@
+{
+  "gameId": "ua3HjZesrGJoEIgILWaf",
+  "webImageOptions": {
+    "topUrl": "",
+    "bottomUrl": "https://ee-glitch-lava.s3.us-east-1.amazonaws.com/backgroundLogo.png"
+  },
+  "name": "logo",
+  "description": "",
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-24T18:38:45.408Z",
+  "uniqueId": "",
+  "stageId": "logo"
+}

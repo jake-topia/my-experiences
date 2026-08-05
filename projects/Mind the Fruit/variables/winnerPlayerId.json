@@ -1,0 +1,11 @@
+{
+  "gameId": "OJMSvhJNq1lBzExJVMr3",
+  "defaultValue": 0,
+  "scope": "SERVER",
+  "name": "winnerPlayerId",
+  "description": "",
+  "type": "NUMBER",
+  "variableId": "winnerPlayerId",
+  "createdISO": "2026-06-12T22:50:59.540Z",
+  "uniqueId": ""
+}

@@ -1,0 +1,24 @@
+{
+  "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "webImageOptions": null,
+  "rectOptions": {
+    "borderRadius": 0,
+    "strokeWeight": 0,
+    "topAdjust": 0,
+    "width": "1440",
+    "fill": "#000000",
+    "opacity": "0",
+    "displayLayer": "BOTTOM",
+    "stroke": "#000000",
+    "height": "25"
+  },
+  "spriteId": "HorizontalWall",
+  "textOptions": null,
+  "name": "HorizontalWall",
+  "ellipseOptions": null,
+  "type": "RECT",
+  "createdISO": "2026-06-24T18:35:30.023Z",
+  "uniqueId": ""
+}

@@ -1,0 +1,32 @@
+{
+  "gameId": "K1apTsQlVJkkGlLXCS2f",
+  "variables": [
+    {
+      "name": "fromPlayerId",
+      "description": "",
+      "defaultValue": 0,
+      "type": "NUMBER",
+      "uniqueId": "",
+      "createdISO": "2026-06-24T18:37:16.298Z",
+      "gameId": "K1apTsQlVJkkGlLXCS2f",
+      "variableId": "ewYCKwQ90vbrdjCfjxdd",
+      "gameEventId": "playerSelectsSuit"
+    },
+    {
+      "name": "suit",
+      "type": "STRING",
+      "description": "",
+      "uniqueId": "",
+      "createdISO": "2026-06-24T18:37:16.298Z",
+      "gameId": "K1apTsQlVJkkGlLXCS2f",
+      "variableId": "qq9upW8yuGK99m8WMukw",
+      "gameEventId": "playerSelectsSuit"
+    }
+  ],
+  "name": "playerSelectsSuit",
+  "description": "",
+  "type": "GAME_ENGINE",
+  "gameEventId": "playerSelectsSuit",
+  "createdISO": "2026-06-24T18:37:15.896Z",
+  "uniqueId": ""
+}

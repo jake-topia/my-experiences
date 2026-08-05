@@ -1,0 +1,22 @@
+{
+  "gameId": "qU2KFAvzqkzWyUUEK196",
+  "variables": [
+    {
+      "name": "message",
+      "type": "STRING",
+      "description": "",
+      "defaultValue": "",
+      "uniqueId": "",
+      "createdISO": "2026-06-03T20:36:31.891Z",
+      "gameId": "qU2KFAvzqkzWyUUEK196",
+      "variableId": "8VssI5Vm1yQmqSjFCQ8H",
+      "gameEventId": "countDown"
+    }
+  ],
+  "name": "countDown",
+  "description": "used to count down the start of the game",
+  "type": "GAME_ENGINE",
+  "gameEventId": "countDown",
+  "createdISO": "2026-06-03T20:36:31.751Z",
+  "uniqueId": ""
+}

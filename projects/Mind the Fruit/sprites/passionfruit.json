@@ -1,0 +1,19 @@
+{
+  "gameId": "OJMSvhJNq1lBzExJVMr3",
+  "rectOptions": null,
+  "webImageOptions": {
+    "bottomAdjust": "BRING_TO_FRONT",
+    "topAdjust": 0,
+    "topUrl": "",
+    "bottomUrl": "https://i.imgur.com/rsBT5eQ.png"
+  },
+  "spriteId": "passionfruit",
+  "textOptions": null,
+  "name": "passionfruit",
+  "ellipseOptions": null,
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-07-17T01:45:12.319Z",
+  "uniqueId": "",
+  "spriteWorkspaceString": null,
+  "variables": []
+}

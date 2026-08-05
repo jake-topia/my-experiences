@@ -1,0 +1,11 @@
+{
+  "gameId": "scHdunWbiFdqcVinaXbX",
+  "defaultValue": "30",
+  "scope": "SERVER",
+  "name": "configuredNightSeconds",
+  "description": "",
+  "type": "NUMBER",
+  "variableId": "configuredNightSeconds",
+  "createdISO": "2026-07-21T00:34:04.134Z",
+  "uniqueId": ""
+}

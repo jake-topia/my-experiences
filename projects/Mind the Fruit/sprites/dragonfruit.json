@@ -1,0 +1,19 @@
+{
+  "gameId": "OJMSvhJNq1lBzExJVMr3",
+  "rectOptions": null,
+  "webImageOptions": {
+    "bottomAdjust": "BRING_TO_FRONT",
+    "topAdjust": 0,
+    "topUrl": "",
+    "bottomUrl": "https://i.imgur.com/pQd20LZ.png"
+  },
+  "spriteId": "dragonfruit",
+  "textOptions": null,
+  "name": "dragonfruit",
+  "ellipseOptions": null,
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-07-17T02:12:56.517Z",
+  "uniqueId": "",
+  "spriteWorkspaceString": null,
+  "variables": []
+}

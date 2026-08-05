@@ -1,0 +1,11 @@
+{
+  "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+  "defaultValue": "",
+  "scope": "SERVER",
+  "name": "PuckPuckTurnOrderCSV",
+  "description": "",
+  "type": "STRING",
+  "variableId": "PuckPuckTurnOrderCSV",
+  "createdISO": "2026-06-24T18:35:30.018Z",
+  "uniqueId": ""
+}

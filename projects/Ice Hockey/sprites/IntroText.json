@@ -1,0 +1,22 @@
+{
+  "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": null,
+  "spriteId": "IntroText",
+  "textOptions": {
+    "fontFamily": "Arial",
+    "color": "#000000",
+    "size": "40",
+    "topAdjust": "1",
+    "width": "300",
+    "weight": "normal",
+    "displayLayer": "TOP"
+  },
+  "name": "IntroText",
+  "ellipseOptions": null,
+  "type": "TEXT",
+  "createdISO": "2026-06-24T18:35:30.024Z",
+  "uniqueId": ""
+}

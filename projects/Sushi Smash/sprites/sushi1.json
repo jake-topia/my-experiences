@@ -1,0 +1,18 @@
+{
+  "gameId": "kZ72ysNfExPtFok0VxXr",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": {
+    "topAdjust": 0,
+    "topUrl": "https://sdk-whack-a-mole.s3.us-east-1.amazonaws.com/sushi1.png",
+    "bottomUrl": ""
+  },
+  "spriteId": "sushi1",
+  "textOptions": null,
+  "name": "sushi1",
+  "ellipseOptions": null,
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-24T18:38:00.092Z",
+  "uniqueId": ""
+}

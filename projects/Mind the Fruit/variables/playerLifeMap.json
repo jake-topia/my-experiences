@@ -1,0 +1,10 @@
+{
+  "gameId": "OJMSvhJNq1lBzExJVMr3",
+  "scope": "SERVER",
+  "name": "playerLifeMap",
+  "type": "MAP",
+  "variableId": "playerLifeMap",
+  "createdISO": "2026-06-12T22:48:57.077Z",
+  "uniqueId": "",
+  "description": "playerLifeMap: {\"123\": true, \"456\": true}"
+}

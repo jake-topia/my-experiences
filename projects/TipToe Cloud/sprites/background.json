@@ -1,0 +1,18 @@
+{
+  "gameId": "1mQpLXXws7XSemfBTAYX",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": {
+    "topAdjust": -20,
+    "topUrl": "",
+    "bottomUrl": "https://ee-tiptoe.s3.us-east-1.amazonaws.com/Clouds%20Version%2FBackground.PNG"
+  },
+  "spriteId": "background",
+  "textOptions": null,
+  "name": "background",
+  "ellipseOptions": null,
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-24T18:33:53.263Z",
+  "uniqueId": ""
+}

@@ -1,0 +1,25 @@
+{
+  "gameId": "iSJTYpjfgqZ3Qecw9RP5",
+  "webImageOptions": null,
+  "spriteId": "leaderZone",
+  "textOptions": null,
+  "name": "leaderZone",
+  "ellipseOptions": null,
+  "type": "RECT",
+  "createdISO": "2026-06-10T23:17:34.567Z",
+  "uniqueId": "",
+  "rectOptions": {
+    "topAdjust": 0,
+    "width": "500",
+    "fill": "#e0f000",
+    "opacity": 1,
+    "height": 0,
+    "bottomAdjust": "BRING_TO_FRONT",
+    "strokeWeight": "10",
+    "displayLayer": "BOTTOM",
+    "borderRadius": "8",
+    "stroke": "#212400"
+  },
+  "spriteWorkspaceString": null,
+  "variables": []
+}

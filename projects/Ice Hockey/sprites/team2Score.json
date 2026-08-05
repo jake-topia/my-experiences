@@ -1,0 +1,22 @@
+{
+  "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": null,
+  "spriteId": "team2Score",
+  "textOptions": {
+    "fontFamily": "Arial",
+    "color": "#ff0000",
+    "size": "50",
+    "topAdjust": "6",
+    "width": 600,
+    "weight": "normal",
+    "displayLayer": "TOP"
+  },
+  "name": "team2Score",
+  "ellipseOptions": null,
+  "type": "TEXT",
+  "createdISO": "2026-06-24T18:35:30.029Z",
+  "uniqueId": ""
+}

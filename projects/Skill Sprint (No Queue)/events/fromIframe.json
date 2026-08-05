@@ -1,0 +1,32 @@
+{
+  "gameId": "liBInmTrxMkugiXKtfzd",
+  "variables": [
+    {
+      "name": "type",
+      "type": "STRING",
+      "description": "",
+      "defaultValue": "message",
+      "uniqueId": "",
+      "createdISO": "2025-06-23T15:25:38.716Z",
+      "gameId": "liBInmTrxMkugiXKtfzd",
+      "variableId": "FKyW9jEASW8eXydXJbQX",
+      "gameEventId": "fromIframe"
+    },
+    {
+      "name": "payload",
+      "type": "MAP",
+      "description": "",
+      "uniqueId": "",
+      "createdISO": "2025-06-23T15:25:38.716Z",
+      "gameId": "liBInmTrxMkugiXKtfzd",
+      "variableId": "UQWrOOOL1omjRedEvRaM",
+      "gameEventId": "fromIframe"
+    }
+  ],
+  "name": "fromIframe",
+  "description": "",
+  "type": "IFRAME_TO_CLIENT",
+  "gameEventId": "fromIframe",
+  "createdISO": "2025-06-23T15:25:38.504Z",
+  "uniqueId": ""
+}

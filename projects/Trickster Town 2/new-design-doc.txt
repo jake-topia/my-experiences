@@ -1,0 +1,113 @@
+How to Play
+
+In Trickster Town, every player has a unique role with a unique action. This role belongs to either the Trickster team, or the Townsfolk team.
+
+During the night time, every player will select another player to visit. **remove?**Visiting a player means you want to use your role's unique action on that player.****
+
+There will always be at least 1 Trickster trying to eliminate another player and get away with it! The Trickster conducts an elimination by first visiting a player to "case" them. Then visiting again on another night to eliminate them.
+
+The Trickster team wins if they eliminate a player and no Trickster team member is convicted of the crime.
+The Townsfolk team wins if they successfully convict a Trickster team member of the crime.
+
+TRICKSTER ~small subtext saying "Trickster Team": Case a player on Night 1, then eliminate that same player on a later night. Your case reveals their role to you.
+WATCHER ~small subtext saying "Townsfolk Team": Watch a player to see who visits them.
+FOLLOWER ~small subtext saying "Townsfolk Team": Follow a player to see who they visit. ****changed from Detective to Follower****
+GUARD ~small subtext saying "Townsfolk Team": Guard a player to block all visits to them.
+JOKER ~small subtext saying "Joker Team": Visit a player without affecting them. Win if you are put on trial and convicted.
+MIND READER ~small subtext saying "Townsfolk Team": Prepare to read a player's role on Night 1, then read it on Night 2.
+SABOTEUR ~small subtext saying "Trickster Team": Distract a player to stop them from using their action that night.
+FRAMER ~small subtext saying "Trickster Team": Visit a player while appearing to be another player.
+SLEEPER ~small subtext saying "Townsfolk Team": Visit a player to make them sleepy and stop their action.
+
+**remove?**THIEF ~small subtext saying "Townsfolk Team": Swap roles with another player on Night 1. The swap takes effect after the night.****
+
+--------------------------------------------------------------------
+
+Example: if Jake is the WATCHER role, and he visits Lina (the GUARD player), they  will be notified of whoever else visited Lina that night.
+If Shelby was the TRICKSTER and she also visited Lina, Jake would know and could share his suspicion of Shelby with the group.
+
+https://cdn.shopify.com/s/files/1/0740/4855/files/ONUW_rules-updated_for_BGG.pdf?337
+
+Ask Shelby if she thinks the Eyes feature should have options for: "Jake claims Shelby visited Lina last night"  or keep it to "Jake thinks Shelby is the Trickster"
+
+Ask Shelby about the typing version of Skill Sprint
+
+
+
+
+
+Day/Night Cycle: Night 1 -> Day 1 -> Night 2 -> Day 2 -> Night 3 -> Day 3
+Each role no longer has their own "phase" during the night. Everyone has a role now and everyone must DO their action during the night simultaneously. Things such as conflicts like the Guard preventing a visit needs to be resolved logically right after the night time voting is done. Those "blocking" actions means the player who was blocked/action-stopped actually visited no one and their action never happened. This may require a concrete order of blockage, trickster based blockage such as the Saboteur should be prioritized first.
+The exile phase should be changed to a trial phase. This phase only happens the day after an elimination occurs. The new trial phase should function like so: The players vote who to put on trial and while on trial the accused can try to convince the town otherwise, after some time the players can vote again to "Put Someone Else on Trial" OR "They're Guilty!" -> these options will appear with their own vote text sprites underneath them below the accused person. The accused person will be teleported to the middle of the circle while on trial. Players can "Put Someone Else on Trial" as long as they want. The first 5 roles under "Roles:" should always be a part of the game as of now.
+
+New win condition: The trickster team has 3 nights to eliminate a player, if the day after night 3 (day 3) a trickster is put on trial and convicted, the tricksters lose. Due to the trickster's ability they can eliminate as early as night 2, if this happens an early trial will happen on day 2 - again, if a trickster is convicted, they lose. If no one is eliminated by Night 3 or a trickster is correctly convicted after trial, the Townsfolk team wins. Logically, trial always happens immediately the next day if there was an elimination the night before. The Joker's win can happen simultaneously with the trickster team (the Joker is convicted instead of a trickster ).
+
+Roles:
+
+- Detective (team townsfolk): can investigate to see where a player went, investigating means this player left their house targeting the investigated player. 
+
+- Watcher (team townsfolk): can watch a player house to see if they get visited and by whom, watching means this player left their house targeting the watched player. 
+
+- Trickster (team Trickster): can case a player, casing means this player left their house targeting the cased player (1st night, casing must happen before elimination). Can eliminate a player, eliminating means this player left their house targeting the eliminated player (2nd night, you may eliminate only the player you cased). Wins if they do not get exiled after the 2nd night. The trickster "case" also reveals the cased players role to the trickster
+
+- Guard (team townsfolk): can guard a player, guarding means this player left their house targeting the guarded player. Guarding a player means this player is protected from being visited by another player entirely (player attempting to visit is not revealed to the guard). Post-night text should say something like "You guarded <player> against 3 visitors"
+
+- Joker (team joker): can visit a player (does nothing), visiting means this player left their house targeting the visited player. Wins if they get exiled.
+
+
+Potential Roles:
+
+- Mind Reader ( team townsfolk ): has to prepare mind reading a player first night, then mind reads their role on 2nd night.  OR if we have the thief it may be more interesting to mind read the role the first night, do nothing the 2nd night. This way the thief could have potentially swapped the roles of the trickster meaning the role read on ngiht 1 is now dubious
+- Thief (team townsfolk): swap roles with someone during the first night (GOES INTO EFFECT AFTER 1ST NIGHT)
+- Saboteur (team trickster): can distract a player from doing their role. Distracting them means you visited them that night. Distracted person does not know who distracted them. 
+- Framer (team trickster): can visit a player disguised as a randomly picked player (or we might want to let them choose). Visiting means other people can see that the person you were disguised as visited the player you visited, they can also see you visited the same player (of course this is only if you were investigated by the detective or seen by the Watcher). 
+- Sleeper ( team townsfolk): You're a very sleepy person but you can only sleep if you visit someone. Visiting them stops their action from happening (they never visit whoever they were going to visit) and causes them to become sleepy too. 
+
+
+
+
+
+
+
+-- Personal thoughts not to be taken as instruction (yet) (Meaning they're just notes) --
+
+Now the detective and the watcher essentially gleam the same info X visited Y. They only differ in that I want to see what player X does VS. I want to see who comes after player Y. 
+
+Potentially the trickster "case" also reveals the cased players role to the trickster (can help them weave lies)
+
+Potentially the trickster "case" is guarded by the Guard and thus pushes the final night to night 3, because the trickster must "case" a player before eliminating them.
+
+Potentially the Guard protects from ALL visits instead of revealing a trickster had visited the person guarding them
+
+
+Thought experiment 1,  (info in parantheses is unknown information):
+Guard guards Joker
+Trickster cases Joker
+Watcher watches Detective
+Detective investigates Trickster
+Joker visits Trickster
+
+Player A (Guard) knows he protected a Player E (Joker) from a Trickster (Player C) visit.
+Player B (Watcher) knows no one visited Player D (Detective)
+Detective (Player D) knows Player C (Trickster) visited the Player E (Joker)
+Trickster (Player C) knows Player E is the Joker
+There's no way for the Joker or the Trickster to win in this case (unless the joker could visit himself and that could count as a "visit from a trickster" which the guard could protect from - not sure if this is how this should work though)
+
+Thought experiment 2,   (info in parantheses is unknown information):
+
+Detective investigates Joker
+Joker visits Watcher
+Trickster cases Watcher
+Guard protects Detective
+Watcher watches Guard
+
+Watcher knows Guard visited Detective, Detective knows Joker visited watcher, Guard knows the Trickster did not visit the Detective, 
+
+if the detective reveals he knows the Joker player visited the watcher player, the next night both the Joker and the Trickster are in optimal positions (Trickster is unseen the first night & Joker is very suspicious, Joker is seen the first night potentially "casing", then the same person is killed the next night)
+
+Night 2:
+Trickster eliminates Watcher
+Watcher watches someone but gets no info b/c they were eliminated
+Detective investigates Joker again
+Joker visits Watcher
+Guard guards Watcher

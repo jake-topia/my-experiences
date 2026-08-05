@@ -1,0 +1,19 @@
+{
+  "gameId": "OJMSvhJNq1lBzExJVMr3",
+  "rectOptions": null,
+  "spriteId": "apple",
+  "textOptions": null,
+  "name": "apple",
+  "ellipseOptions": null,
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-15T22:30:30.404Z",
+  "uniqueId": "",
+  "webImageOptions": {
+    "bottomAdjust": "BRING_TO_FRONT",
+    "topUrl": "",
+    "topAdjust": 0,
+    "bottomUrl": "https://i.imgur.com/5GfOhcu.png"
+  },
+  "spriteWorkspaceString": null,
+  "variables": []
+}

@@ -1,0 +1,11 @@
+{
+  "gameId": "scHdunWbiFdqcVinaXbX",
+  "defaultValue": 0,
+  "scope": "SERVER",
+  "name": "lastExiledPlayerId",
+  "description": "",
+  "type": "NUMBER",
+  "variableId": "lastExiledPlayerId",
+  "createdISO": "2026-07-21T00:34:04.135Z",
+  "uniqueId": ""
+}

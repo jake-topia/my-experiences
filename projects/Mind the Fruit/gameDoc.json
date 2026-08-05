@@ -1,0 +1,20 @@
+{
+  "name": "Mind the Fruit",
+  "height": "1500",
+  "isPlatformGame": false,
+  "description": "",
+  "width": "1500",
+  "category": "",
+  "usePhysics": true,
+  "defaultStage": "logo",
+  "useLegacyWorkspaces": false,
+  "createdISO": "2026-06-12T20:32:08.547Z",
+  "gameId": "OJMSvhJNq1lBzExJVMr3",
+  "creator": "7uLBqnJ3KxNXA6Nqtgu3v1Xi1ge2",
+  "coverImage": "gameCoverImages/OJMSvhJNq1lBzExJVMr3",
+  "isPublished": true,
+  "maxPlayers": "14",
+  "publishedPublicVersionAtISO": "2026-07-28T01:07:12.703Z",
+  "publishedTestVersion": "0^125",
+  "publishedTestVersionAtISO": "2026-07-28T01:07:12.703Z"
+}

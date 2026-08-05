@@ -1,0 +1,11 @@
+{
+  "gameId": "scHdunWbiFdqcVinaXbX",
+  "defaultValue": "",
+  "scope": "SERVER",
+  "name": "endReasonText",
+  "description": "",
+  "type": "STRING",
+  "variableId": "endReasonText",
+  "createdISO": "2026-07-21T00:34:04.135Z",
+  "uniqueId": ""
+}

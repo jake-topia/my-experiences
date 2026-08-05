@@ -1,0 +1,44 @@
+{
+  "gameId": "kZ72ysNfExPtFok0VxXr",
+  "variables": [
+    {
+      "name": "lastItemIsBad",
+      "description": "",
+      "defaultValue": false,
+      "type": "BOOLEAN",
+      "uniqueId": "",
+      "createdISO": "2026-06-24T18:38:00.276Z",
+      "gameId": "kZ72ysNfExPtFok0VxXr",
+      "variableId": "Fh5iqZ5XEIExOZkR53E2",
+      "gameEventId": "addItem"
+    },
+    {
+      "name": "isPlayer1",
+      "description": "",
+      "defaultValue": false,
+      "type": "BOOLEAN",
+      "uniqueId": "",
+      "createdISO": "2026-06-24T18:38:00.276Z",
+      "gameId": "kZ72ysNfExPtFok0VxXr",
+      "variableId": "IZTOCvdQMKPnRyoAMetJ",
+      "gameEventId": "addItem"
+    },
+    {
+      "name": "playerId",
+      "description": "",
+      "defaultValue": "",
+      "type": "STRING",
+      "uniqueId": "",
+      "createdISO": "2026-06-24T18:38:00.277Z",
+      "gameId": "kZ72ysNfExPtFok0VxXr",
+      "variableId": "xz2Lv9cAKSjIsztPMboJ",
+      "gameEventId": "addItem"
+    }
+  ],
+  "name": "addItem",
+  "description": "",
+  "type": "INPUT",
+  "gameEventId": "addItem",
+  "createdISO": "2026-06-24T18:38:00.079Z",
+  "uniqueId": ""
+}

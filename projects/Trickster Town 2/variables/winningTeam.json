@@ -1,0 +1,11 @@
+{
+  "gameId": "scHdunWbiFdqcVinaXbX",
+  "defaultValue": "",
+  "scope": "SERVER",
+  "name": "winningTeam",
+  "description": "",
+  "type": "STRING",
+  "variableId": "winningTeam",
+  "createdISO": "2026-07-21T00:34:04.135Z",
+  "uniqueId": ""
+}

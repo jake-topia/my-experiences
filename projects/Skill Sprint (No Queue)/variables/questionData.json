@@ -1,0 +1,10 @@
+{
+  "gameId": "liBInmTrxMkugiXKtfzd",
+  "scope": "SERVER",
+  "name": "questionData",
+  "description": "map of string to questionData",
+  "type": "MAP",
+  "variableId": "questionData",
+  "createdISO": "2025-06-23T15:25:38.503Z",
+  "uniqueId": ""
+}

@@ -1,0 +1,13 @@
+{
+  "gameId": "K1apTsQlVJkkGlLXCS2f",
+  "webImageOptions": {
+    "topUrl": "",
+    "bottomUrl": "https://ee-last-card.s3.us-east-1.amazonaws.com/background.png"
+  },
+  "name": "back",
+  "description": "",
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-24T18:37:15.895Z",
+  "uniqueId": "",
+  "stageId": "back"
+}

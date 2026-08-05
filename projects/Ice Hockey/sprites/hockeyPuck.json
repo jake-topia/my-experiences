@@ -1,0 +1,18 @@
+{
+  "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": {
+    "topAdjust": "0",
+    "topUrl": "",
+    "bottomUrl": "https://ee-soccer-golf.s3.us-east-1.amazonaws.com/Puck-Large.png"
+  },
+  "spriteId": "hockeyPuck",
+  "textOptions": null,
+  "name": "hockeyPuck",
+  "ellipseOptions": null,
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-24T18:35:30.027Z",
+  "uniqueId": ""
+}

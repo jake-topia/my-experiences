@@ -1,0 +1,33 @@
+{
+  "gameId": "ntSt18GsUu2s7MoylXZ5",
+  "name": "playerChoosesDayVote",
+  "description": "",
+  "type": "INPUT",
+  "gameEventId": "playerChoosesDayVote",
+  "createdISO": "2026-06-30T22:33:43.921Z",
+  "uniqueId": "",
+  "variables": [
+    {
+      "name": "fromPlayerId",
+      "type": "NUMBER",
+      "description": "",
+      "defaultValue": 0,
+      "uniqueId": "",
+      "createdISO": "2026-06-30T22:33:44.000Z",
+      "gameId": "ntSt18GsUu2s7MoylXZ5",
+      "variableId": "KyPLl0NXMZrsY5dmvSXS",
+      "gameEventId": "playerChoosesDayVote"
+    },
+    {
+      "name": "targetPlayerId",
+      "type": "NUMBER",
+      "description": "",
+      "defaultValue": 0,
+      "uniqueId": "",
+      "createdISO": "2026-06-30T22:33:44.000Z",
+      "gameId": "ntSt18GsUu2s7MoylXZ5",
+      "variableId": "ZaJ4o8KOcKd4HyQXrkZv",
+      "gameEventId": "playerChoosesDayVote"
+    }
+  ]
+}

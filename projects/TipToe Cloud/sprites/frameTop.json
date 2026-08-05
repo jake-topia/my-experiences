@@ -1,0 +1,19 @@
+{
+  "gameId": "1mQpLXXws7XSemfBTAYX",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": {
+    "bottomAdjust": "BRING_TO_FRONT",
+    "topAdjust": 10,
+    "topUrl": "",
+    "bottomUrl": "https://ee-tiptoe.s3.us-east-1.amazonaws.com/Clouds%20Version%2FFrame_Top.png"
+  },
+  "spriteId": "frameTop",
+  "textOptions": null,
+  "name": "frameTop",
+  "ellipseOptions": null,
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-24T18:33:53.264Z",
+  "uniqueId": ""
+}

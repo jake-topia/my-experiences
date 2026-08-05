@@ -1,0 +1,22 @@
+{
+  "gameId": "CrWBfIVdVqfP5yJIM6ka",
+  "variables": [
+    {
+      "name": "fromPlayerIdNumber",
+      "type": "NUMBER",
+      "description": "",
+      "defaultValue": 0,
+      "uniqueId": "",
+      "createdISO": "2026-06-03T20:58:26.930Z",
+      "gameId": "CrWBfIVdVqfP5yJIM6ka",
+      "variableId": "2ucdw9MagAXVd4GLwS1H",
+      "gameEventId": "hostStartsGame"
+    }
+  ],
+  "name": "hostStartsGame",
+  "description": "",
+  "type": "GAME_ENGINE",
+  "gameEventId": "hostStartsGame",
+  "createdISO": "2026-06-03T20:58:26.694Z",
+  "uniqueId": ""
+}

@@ -1,0 +1,55 @@
+{
+  "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+  "variables": [
+    {
+      "name": "action",
+      "type": "STRING",
+      "description": "",
+      "defaultValue": "",
+      "uniqueId": "",
+      "createdISO": "2026-06-24T18:35:30.475Z",
+      "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+      "variableId": "Oui0lYFMkv2FJdyqFNUn",
+      "gameEventId": "puckRunnerInput"
+    },
+    {
+      "name": "targetX",
+      "type": "NUMBER",
+      "description": "",
+      "defaultValue": 0,
+      "uniqueId": "",
+      "createdISO": "2026-06-24T18:35:30.475Z",
+      "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+      "variableId": "fRSOpztGsHyfLjzwuBdo",
+      "gameEventId": "puckRunnerInput"
+    },
+    {
+      "name": "playerId",
+      "type": "NUMBER",
+      "description": "",
+      "defaultValue": 0,
+      "uniqueId": "",
+      "createdISO": "2026-06-24T18:35:30.476Z",
+      "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+      "variableId": "pOWiyz2QilGXOjkZBlwD",
+      "gameEventId": "puckRunnerInput"
+    },
+    {
+      "name": "targetY",
+      "type": "NUMBER",
+      "description": "",
+      "defaultValue": 0,
+      "uniqueId": "",
+      "createdISO": "2026-06-24T18:35:30.476Z",
+      "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+      "variableId": "socumhDUoZPj8knOD29B",
+      "gameEventId": "puckRunnerInput"
+    }
+  ],
+  "name": "puckRunnerInput",
+  "description": "",
+  "type": "INPUT",
+  "gameEventId": "puckRunnerInput",
+  "createdISO": "2026-06-24T18:35:30.021Z",
+  "uniqueId": ""
+}

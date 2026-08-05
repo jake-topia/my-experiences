@@ -1,0 +1,18 @@
+{
+  "gameId": "iSJTYpjfgqZ3Qecw9RP5",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "spriteId": "obstacleWall3",
+  "textOptions": null,
+  "name": "obstacleWall3",
+  "ellipseOptions": null,
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-03T20:35:23.356Z",
+  "uniqueId": "",
+  "webImageOptions": {
+    "topUrl": "https://ee-red-light-green-light.s3.us-east-1.amazonaws.com/Barricade_3.png",
+    "bottomUrl": "",
+    "topAdjust": 20
+  }
+}

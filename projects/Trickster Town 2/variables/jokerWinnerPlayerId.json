@@ -1,0 +1,11 @@
+{
+  "gameId": "scHdunWbiFdqcVinaXbX",
+  "defaultValue": 0,
+  "scope": "SERVER",
+  "name": "jokerWinnerPlayerId",
+  "description": "",
+  "type": "NUMBER",
+  "variableId": "jokerWinnerPlayerId",
+  "createdISO": "2026-07-21T01:11:44.234Z",
+  "uniqueId": ""
+}

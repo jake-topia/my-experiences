@@ -1,0 +1,22 @@
+{
+  "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": null,
+  "spriteId": "MinimumPlayers",
+  "textOptions": {
+    "fontFamily": "Arial",
+    "color": "#000000",
+    "size": "30",
+    "topAdjust": "1",
+    "width": 600,
+    "weight": "normal",
+    "displayLayer": "TOP"
+  },
+  "name": "MinimumPlayers",
+  "ellipseOptions": null,
+  "type": "TEXT",
+  "createdISO": "2026-06-24T18:35:30.024Z",
+  "uniqueId": ""
+}

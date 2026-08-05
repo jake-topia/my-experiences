@@ -1,0 +1,11 @@
+{
+  "gameId": "iSJTYpjfgqZ3Qecw9RP5",
+  "name": "obstacleGenerationType",
+  "description": "Set to either \"set\" or \"random\"",
+  "type": "STRING",
+  "variableId": "obstacleGenerationType",
+  "createdISO": "2026-06-04T23:32:44.706Z",
+  "uniqueId": "",
+  "scope": "CONFIGURATION",
+  "defaultValue": "set"
+}

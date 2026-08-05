@@ -1,0 +1,11 @@
+{
+  "gameId": "liBInmTrxMkugiXKtfzd",
+  "defaultValue": "x",
+  "scope": "CONFIGURATION",
+  "name": "mathOperator",
+  "description": "",
+  "type": "STRING",
+  "variableId": "mathOperator",
+  "createdISO": "2025-06-23T15:25:38.501Z",
+  "uniqueId": ""
+}

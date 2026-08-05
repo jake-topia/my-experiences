@@ -1,0 +1,23 @@
+{
+  "gameId": "UJkR6vQN474DtZu3jtdP",
+  "webImageOptions": null,
+  "spriteId": "invisibleWall",
+  "textOptions": null,
+  "name": "invisibleWall",
+  "ellipseOptions": null,
+  "type": "RECT",
+  "createdISO": "2025-09-29T20:35:11.870Z",
+  "uniqueId": "",
+  "rectOptions": {
+    "borderRadius": 0,
+    "strokeWeight": 0,
+    "topAdjust": 0,
+    "fill": "#ff0000",
+    "displayLayer": "BOTTOM",
+    "stroke": "#000000",
+    "width": "100",
+    "height": "1300",
+    "opacity": "0"
+  },
+  "variables": []
+}

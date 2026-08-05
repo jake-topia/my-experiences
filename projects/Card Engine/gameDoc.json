@@ -1,0 +1,16 @@
+{
+  "name": "Card Engine",
+  "height": 500,
+  "isPlatformGame": false,
+  "description": "",
+  "width": 500,
+  "category": "",
+  "maxPlayers": 20,
+  "usePhysics": false,
+  "defaultStage": "",
+  "useLegacyWorkspaces": false,
+  "createdISO": "2026-06-03T20:58:23.457Z",
+  "gameId": "CrWBfIVdVqfP5yJIM6ka",
+  "creator": "7uLBqnJ3KxNXA6Nqtgu3v1Xi1ge2",
+  "coverImage": "gameCoverImages/CrWBfIVdVqfP5yJIM6ka"
+}

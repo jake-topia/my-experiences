@@ -1,0 +1,11 @@
+{
+  "gameId": "scHdunWbiFdqcVinaXbX",
+  "defaultValue": 0,
+  "scope": "SERVER",
+  "name": "trialAccusedPlayerId",
+  "description": "",
+  "type": "NUMBER",
+  "variableId": "trialAccusedPlayerId",
+  "createdISO": "2026-07-21T01:11:37.194Z",
+  "uniqueId": ""
+}

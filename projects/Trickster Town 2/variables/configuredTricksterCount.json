@@ -1,0 +1,11 @@
+{
+  "gameId": "scHdunWbiFdqcVinaXbX",
+  "defaultValue": "1",
+  "scope": "SERVER",
+  "name": "configuredTricksterCount",
+  "description": "",
+  "type": "NUMBER",
+  "variableId": "configuredTricksterCount",
+  "createdISO": "2026-07-21T00:34:04.134Z",
+  "uniqueId": ""
+}

@@ -1,0 +1,10 @@
+{
+  "gameId": "OJMSvhJNq1lBzExJVMr3",
+  "scope": "SERVER",
+  "name": "roundFruitOptionsMap",
+  "type": "MAP",
+  "variableId": "roundFruitOptionsMap",
+  "createdISO": "2026-06-12T22:50:29.971Z",
+  "uniqueId": "",
+  "description": "roundFruitOptionsMap: {\"0\": \"strawberry\", \"1\": \"banana\", \"2\": \"grape\"}"
+}

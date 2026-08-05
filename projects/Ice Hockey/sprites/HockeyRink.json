@@ -1,0 +1,19 @@
+{
+  "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": {
+    "bottomAdjust": "BRING_TO_BACK",
+    "topAdjust": "-1",
+    "topUrl": "",
+    "bottomUrl": "https://ee-soccer-golf.s3.us-east-1.amazonaws.com/Hockey-Rink-Colored.png"
+  },
+  "spriteId": "HockeyRink",
+  "textOptions": null,
+  "name": "HockeyRink",
+  "ellipseOptions": null,
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-24T18:35:30.023Z",
+  "uniqueId": ""
+}

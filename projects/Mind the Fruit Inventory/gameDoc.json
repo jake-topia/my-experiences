@@ -1,0 +1,20 @@
+{
+  "name": "Mind the Fruit Inventory",
+  "height": "1500",
+  "isPlatformGame": false,
+  "description": "",
+  "width": "1500",
+  "category": "",
+  "maxPlayers": "14",
+  "usePhysics": true,
+  "defaultStage": "logo",
+  "useLegacyWorkspaces": false,
+  "createdISO": "2026-07-08T19:08:04.129Z",
+  "gameId": "gz482nmxO1gh7b2G0xQp",
+  "creator": "7uLBqnJ3KxNXA6Nqtgu3v1Xi1ge2",
+  "coverImage": "gameCoverImages/gz482nmxO1gh7b2G0xQp",
+  "isPublished": true,
+  "publishedPublicVersionAtISO": "2026-07-08T23:11:41.045Z",
+  "publishedTestVersion": "0^12",
+  "publishedTestVersionAtISO": "2026-07-08T23:11:41.045Z"
+}

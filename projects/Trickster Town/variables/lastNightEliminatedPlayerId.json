@@ -1,0 +1,11 @@
+{
+  "gameId": "ntSt18GsUu2s7MoylXZ5",
+  "defaultValue": 0,
+  "scope": "SERVER",
+  "name": "lastNightEliminatedPlayerId",
+  "description": "",
+  "type": "NUMBER",
+  "variableId": "lastNightEliminatedPlayerId",
+  "createdISO": "2026-06-30T22:28:46.366Z",
+  "uniqueId": ""
+}

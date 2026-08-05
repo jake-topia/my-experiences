@@ -1,0 +1,46 @@
+You are the TOWNSFOLK role
+Your goal is to eliminate TRICKSTERS from the game by voting to exile them during the day. You and the other TOWNSFOLK win when all TRICKSTERS are gone!
+You have no special abilities, sorry.
+
+During the nighttime, TRICKSTERS and other players with a special role will have time to use their abilities on any player.
+
+
+
+You are the TRICKSTER role
+Your goal is to work with the other TRICKSTERS to eliminate TOWNSFOLK from the game!
+During the nighttime you and your other TRICKSTERS may vote to eliminate a TOWNSFOLK from the game.
+
+Be careful, the DETECTIVE may also use their ability during the night to find out if you're a TRICKSTER and may report you to the town. The TOWNSFOLK may also choose to exile you during the day if you're being suspicious.
+
+
+
+You are the DOCTOR role
+Your goal is to eliminate TRICKSTERS from the game by voting to exile them during the day. You and the other TOWNSFOLK win when all TRICKSTERS are gone!
+You have a special ability to save TOWNSFOLK who you think may be targeted by a TRICKSTER. You'll have an opportunity to use this ability during nighttime.
+
+During the nighttime, TRICKSTERS and other players with a special role will have time to use their abilities on any player.
+
+
+
+You are the DETECTIVE role
+Your goal is to eliminate TRICKSTERS from the game by voting to exile them during the day. You and the other TOWNSFOLK win when all TRICKSTERS are gone!
+You have a special ability to investigate players who you think may be a TRICKSTER. You'll have an opportunity to use this ability during nighttime.
+
+During the nighttime, TRICKSTERS and other players with a special role will have time to use their abilities on any player.
+
+
+
+You are the ASSASSIN role
+You win when the player who is your TARGET is eliminated. No one else can see who your TARGET is. 
+Your win does not have to coinside with a TRICKSTER or TOWNSFOLK win.
+
+
+
+The game has not started yet or you are a spectator
+Trickster Town is a multiplayer game where you are assigned a role and you have to work with or against other players to win!
+
+Tricksters are the impostor role and have time during the night to eliminate players, they win when enough normal players (Townsfolk) are eliminated
+
+Townsfolk (including adjacent roles such as the Detective and the Doctor) win by voting together to exile suspected Tricksters during the daytime.
+
+Special roles can also act during the night to use their abilities. For example, the Detective may investigate to reveal if a player is a Trickster.

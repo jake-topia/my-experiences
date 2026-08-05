@@ -1,0 +1,13 @@
+{
+  "gameId": "AiSjd39UyVd5W9pWNXCZ",
+  "webImageOptions": {
+    "topUrl": "",
+    "bottomUrl": "https://ee-tiptoe.s3.us-east-1.amazonaws.com/ICe%20Version%2FBackground.PNG"
+  },
+  "name": "logo",
+  "description": "",
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-03T20:08:34.798Z",
+  "uniqueId": "",
+  "stageId": "logo"
+}

@@ -1,0 +1,22 @@
+{
+  "gameId": "qU2KFAvzqkzWyUUEK196",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": null,
+  "spriteId": "startBtn",
+  "textOptions": {
+    "fontFamily": "Tahoma",
+    "color": "#7e1111",
+    "size": "50",
+    "topAdjust": "10",
+    "width": "600",
+    "weight": "bold",
+    "displayLayer": "TOP"
+  },
+  "name": "startBtn",
+  "ellipseOptions": null,
+  "type": "TEXT",
+  "createdISO": "2026-06-03T20:36:31.753Z",
+  "uniqueId": ""
+}

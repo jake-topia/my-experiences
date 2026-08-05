@@ -1,0 +1,22 @@
+{
+  "gameId": "qU2KFAvzqkzWyUUEK196",
+  "variables": [
+    {
+      "name": "playerID",
+      "type": "STRING",
+      "description": "",
+      "defaultValue": "",
+      "uniqueId": "",
+      "createdISO": "2026-06-03T20:36:31.896Z",
+      "gameId": "qU2KFAvzqkzWyUUEK196",
+      "variableId": "2Kj4aMIFdXIYKAMscp6e",
+      "gameEventId": "removeFromCollidedPlayers"
+    }
+  ],
+  "name": "removeFromCollidedPlayers",
+  "description": "This event will remove a player id from the collided players list in safeZoneManager when a player gets joined back in the game.",
+  "type": "GAME_ENGINE",
+  "gameEventId": "removeFromCollidedPlayers",
+  "createdISO": "2026-06-03T20:36:31.751Z",
+  "uniqueId": ""
+}

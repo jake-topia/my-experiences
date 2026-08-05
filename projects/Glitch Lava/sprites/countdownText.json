@@ -1,0 +1,22 @@
+{
+  "gameId": "ua3HjZesrGJoEIgILWaf",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": null,
+  "spriteId": "countdownText",
+  "textOptions": {
+    "fontFamily": "Arial",
+    "color": "#000000",
+    "size": 24,
+    "topAdjust": 0,
+    "width": 600,
+    "weight": "normal",
+    "displayLayer": "BOTTOM"
+  },
+  "name": "countdownText",
+  "ellipseOptions": null,
+  "type": "TEXT",
+  "createdISO": "2026-06-24T18:38:45.411Z",
+  "uniqueId": ""
+}

@@ -1,0 +1,18 @@
+{
+  "gameId": "iSJTYpjfgqZ3Qecw9RP5",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": {
+    "topAdjust": 30,
+    "topUrl": "https://ee-red-light-green-light.s3.us-east-1.amazonaws.com/Traffic-Light-Large-Green.png",
+    "bottomUrl": ""
+  },
+  "spriteId": "trafficLightGreen",
+  "textOptions": null,
+  "name": "trafficLightGreen",
+  "ellipseOptions": null,
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-03T20:35:23.356Z",
+  "uniqueId": ""
+}

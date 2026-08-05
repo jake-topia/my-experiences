@@ -1,0 +1,33 @@
+{
+  "gameId": "liBInmTrxMkugiXKtfzd",
+  "variables": [
+    {
+      "name": "playerId",
+      "type": "STRING",
+      "description": "",
+      "defaultValue": "",
+      "uniqueId": "",
+      "createdISO": "2025-06-23T15:25:38.714Z",
+      "gameId": "liBInmTrxMkugiXKtfzd",
+      "variableId": "VB0BzMyblDCVEUoEFMwJ",
+      "gameEventId": "buttonClicked"
+    },
+    {
+      "name": "button",
+      "type": "STRING",
+      "description": "",
+      "defaultValue": "",
+      "uniqueId": "",
+      "createdISO": "2025-06-23T15:25:38.714Z",
+      "gameId": "liBInmTrxMkugiXKtfzd",
+      "variableId": "p7JftXv9RoYd9J1epKtu",
+      "gameEventId": "buttonClicked"
+    }
+  ],
+  "name": "buttonClicked",
+  "description": "",
+  "type": "INPUT",
+  "gameEventId": "buttonClicked",
+  "createdISO": "2025-06-23T15:25:38.504Z",
+  "uniqueId": ""
+}

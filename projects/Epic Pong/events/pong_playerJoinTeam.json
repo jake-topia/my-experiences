@@ -1,0 +1,33 @@
+{
+  "gameId": "BNGcnGXSVFr70XJ3lK1s",
+  "variables": [
+    {
+      "name": "playerId",
+      "type": "NUMBER",
+      "description": "",
+      "defaultValue": 0,
+      "uniqueId": "",
+      "createdISO": "2026-06-24T18:36:45.825Z",
+      "gameId": "BNGcnGXSVFr70XJ3lK1s",
+      "variableId": "3e60JfzYr34h8dMfEnhX",
+      "gameEventId": "pong_playerJoinTeam"
+    },
+    {
+      "name": "teamId",
+      "type": "STRING",
+      "description": "",
+      "defaultValue": "",
+      "uniqueId": "",
+      "createdISO": "2026-06-24T18:36:45.825Z",
+      "gameId": "BNGcnGXSVFr70XJ3lK1s",
+      "variableId": "uJ1z7vAVHdmWdxXfWdYY",
+      "gameEventId": "pong_playerJoinTeam"
+    }
+  ],
+  "name": "pong_playerJoinTeam",
+  "description": "",
+  "type": "INPUT",
+  "gameEventId": "pong_playerJoinTeam",
+  "createdISO": "2026-06-24T18:36:45.639Z",
+  "uniqueId": ""
+}

@@ -1,0 +1,11 @@
+{
+  "gameId": "liBInmTrxMkugiXKtfzd",
+  "defaultValue": false,
+  "scope": "SERVER",
+  "name": "closeIframeEvent",
+  "description": "change var to close iframes",
+  "type": "BOOLEAN",
+  "variableId": "closeIframeEvent",
+  "createdISO": "2025-06-24T16:08:12.555Z",
+  "uniqueId": ""
+}

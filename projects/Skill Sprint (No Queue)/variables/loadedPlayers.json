@@ -1,0 +1,10 @@
+{
+  "gameId": "liBInmTrxMkugiXKtfzd",
+  "scope": "SERVER",
+  "name": "loadedPlayers",
+  "description": "Map of players loading status",
+  "type": "MAP",
+  "variableId": "loadedPlayers",
+  "createdISO": "2025-06-23T15:25:38.501Z",
+  "uniqueId": ""
+}

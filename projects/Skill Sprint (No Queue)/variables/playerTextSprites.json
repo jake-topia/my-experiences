@@ -1,0 +1,10 @@
+{
+  "gameId": "liBInmTrxMkugiXKtfzd",
+  "scope": "SERVER",
+  "name": "playerTextSprites",
+  "description": "array of text sprites for player names",
+  "type": "ARRAY",
+  "variableId": "playerTextSprites",
+  "createdISO": "2025-06-23T15:25:38.502Z",
+  "uniqueId": ""
+}

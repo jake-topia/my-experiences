@@ -1,0 +1,22 @@
+{
+  "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": null,
+  "spriteId": "needTwoPeopleSprite",
+  "textOptions": {
+    "fontFamily": "Arial",
+    "color": "#000000",
+    "size": 24,
+    "topAdjust": "1",
+    "width": 600,
+    "weight": "normal",
+    "displayLayer": "TOP"
+  },
+  "name": "needTwoPeopleSprite",
+  "ellipseOptions": null,
+  "type": "TEXT",
+  "createdISO": "2026-06-24T18:35:30.028Z",
+  "uniqueId": ""
+}

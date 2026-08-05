@@ -1,0 +1,18 @@
+{
+  "gameId": "K1apTsQlVJkkGlLXCS2f",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": {
+    "topAdjust": 0,
+    "topUrl": "",
+    "bottomUrl": "https://ee-last-card.s3.us-east-1.amazonaws.com/small/Pattern_Blue_3.png"
+  },
+  "spriteId": "Pattern_Blue_3",
+  "textOptions": null,
+  "name": "Pattern_Blue_3",
+  "ellipseOptions": null,
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-24T18:37:15.907Z",
+  "uniqueId": ""
+}

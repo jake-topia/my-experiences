@@ -1,0 +1,33 @@
+{
+  "gameId": "K1apTsQlVJkkGlLXCS2f",
+  "variables": [
+    {
+      "name": "hand",
+      "description": "",
+      "defaultValue": "",
+      "type": "STRING",
+      "uniqueId": "",
+      "createdISO": "2026-06-24T18:37:16.351Z",
+      "gameId": "K1apTsQlVJkkGlLXCS2f",
+      "variableId": "4CAvIIwqIhG36I1m67uo",
+      "gameEventId": "updateHand"
+    },
+    {
+      "name": "playerId",
+      "type": "NUMBER",
+      "description": "",
+      "defaultValue": 0,
+      "uniqueId": "",
+      "createdISO": "2026-06-24T18:37:16.352Z",
+      "gameId": "K1apTsQlVJkkGlLXCS2f",
+      "variableId": "SiQvuqkXNnYho4ih6jgg",
+      "gameEventId": "updateHand"
+    }
+  ],
+  "name": "updateHand",
+  "description": "",
+  "type": "GAME_ENGINE",
+  "gameEventId": "updateHand",
+  "createdISO": "2026-06-24T18:37:15.897Z",
+  "uniqueId": ""
+}

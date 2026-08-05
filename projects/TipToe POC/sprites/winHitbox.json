@@ -1,0 +1,23 @@
+{
+  "gameId": "UJkR6vQN474DtZu3jtdP",
+  "webImageOptions": null,
+  "spriteId": "winHitbox",
+  "textOptions": null,
+  "name": "winHitbox",
+  "ellipseOptions": null,
+  "type": "RECT",
+  "createdISO": "2025-09-29T22:02:33.746Z",
+  "uniqueId": "",
+  "rectOptions": {
+    "borderRadius": 0,
+    "strokeWeight": 0,
+    "topAdjust": 0,
+    "fill": "#ffff00",
+    "opacity": "0.5",
+    "displayLayer": "BOTTOM",
+    "stroke": "#000000",
+    "width": "1500",
+    "height": "200"
+  },
+  "variables": []
+}

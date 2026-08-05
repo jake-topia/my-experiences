@@ -1,0 +1,20 @@
+{
+  "name": "Electric Fence Beta Copy",
+  "height": "1000",
+  "isPlatformGame": false,
+  "description": "",
+  "width": "1000",
+  "category": "",
+  "maxPlayers": "5",
+  "usePhysics": true,
+  "defaultStage": "logo",
+  "useLegacyWorkspaces": false,
+  "createdISO": "2025-06-02T19:52:46.593Z",
+  "gameId": "JgsO2kR0r5mM5iYsubyO",
+  "creator": "7uLBqnJ3KxNXA6Nqtgu3v1Xi1ge2",
+  "coverImage": "gameCoverImages/JgsO2kR0r5mM5iYsubyO",
+  "isPublished": true,
+  "publishedPublicVersionAtISO": "2025-10-09T01:26:58.265Z",
+  "publishedTestVersion": "0^2",
+  "publishedTestVersionAtISO": "2025-10-09T01:26:58.265Z"
+}

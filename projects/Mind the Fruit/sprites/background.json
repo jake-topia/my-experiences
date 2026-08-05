@@ -1,0 +1,18 @@
+{
+  "gameId": "OJMSvhJNq1lBzExJVMr3",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "spriteId": "background",
+  "textOptions": null,
+  "name": "background",
+  "ellipseOptions": null,
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-12T20:32:11.629Z",
+  "uniqueId": "",
+  "webImageOptions": {
+    "topAdjust": -20,
+    "topUrl": "",
+    "bottomUrl": "https://i.imgur.com/v4M1vag.png"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "my-experiences",
+  "version": "0.1.0",
+  "description": "A Topia application",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "topia dev",
+    "start": "node dist/index.js",
+    "topia:init": "topia init",
+    "topia:import": "topia import",
+    "topia:sync": "topia sync",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@rtsdk/topia-tools": "^0.2.4",
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "gameId": "iSJTYpjfgqZ3Qecw9RP5",
+  "defaultValue": "auto",
+  "scope": "CONFIGURATION",
+  "name": "lightControlMode",
+  "description": "Set to either \"user\" or \"auto\"",
+  "type": "STRING",
+  "variableId": "lightControlMode",
+  "createdISO": "2026-06-04T23:30:32.103Z",
+  "uniqueId": ""
+}

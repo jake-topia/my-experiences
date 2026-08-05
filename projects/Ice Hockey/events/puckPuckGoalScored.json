@@ -1,0 +1,22 @@
+{
+  "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+  "variables": [
+    {
+      "name": "playerId",
+      "type": "NUMBER",
+      "description": "",
+      "defaultValue": 0,
+      "uniqueId": "",
+      "createdISO": "2026-06-24T18:35:30.391Z",
+      "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+      "variableId": "6eZN1ykyCIIrNmqi92NE",
+      "gameEventId": "puckPuckGoalScored"
+    }
+  ],
+  "name": "puckPuckGoalScored",
+  "description": "",
+  "type": "GAME_ENGINE",
+  "gameEventId": "puckPuckGoalScored",
+  "createdISO": "2026-06-24T18:35:30.021Z",
+  "uniqueId": ""
+}

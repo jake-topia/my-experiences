@@ -1,0 +1,11 @@
+{
+  "gameId": "kZ72ysNfExPtFok0VxXr",
+  "defaultValue": 0,
+  "scope": "SERVER",
+  "name": "gameTimer",
+  "description": "",
+  "type": "NUMBER",
+  "variableId": "gameTimer",
+  "createdISO": "2026-06-24T18:38:00.076Z",
+  "uniqueId": ""
+}

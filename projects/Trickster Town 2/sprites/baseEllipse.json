@@ -1,0 +1,23 @@
+{
+  "gameId": "scHdunWbiFdqcVinaXbX",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": null,
+  "spriteId": "baseEllipse",
+  "textOptions": null,
+  "name": "baseEllipse",
+  "ellipseOptions": {
+    "strokeWeight": 0,
+    "topAdjust": 0,
+    "width": "1",
+    "fill": "#000000",
+    "opacity": 1,
+    "displayLayer": "BOTTOM",
+    "stroke": "#000000",
+    "height": "1"
+  },
+  "type": "ELLIPSE",
+  "createdISO": "2026-07-21T00:34:04.136Z",
+  "uniqueId": ""
+}

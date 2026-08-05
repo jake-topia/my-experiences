@@ -1,0 +1,16 @@
+{
+  "name": "Sushi Smash",
+  "height": "800",
+  "isPlatformGame": false,
+  "description": "Smash sushi, dodge junk food, and compete for the high score!",
+  "width": "1200",
+  "category": "",
+  "maxPlayers": 20,
+  "usePhysics": true,
+  "defaultStage": "default",
+  "useLegacyWorkspaces": false,
+  "createdISO": "2026-06-24T18:37:56.768Z",
+  "gameId": "kZ72ysNfExPtFok0VxXr",
+  "creator": "7uLBqnJ3KxNXA6Nqtgu3v1Xi1ge2",
+  "coverImage": "gameCoverImages/kZ72ysNfExPtFok0VxXr"
+}

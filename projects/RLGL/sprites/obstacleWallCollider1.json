@@ -1,0 +1,24 @@
+{
+  "gameId": "iSJTYpjfgqZ3Qecw9RP5",
+  "webImageOptions": null,
+  "spriteId": "obstacleWallCollider1",
+  "textOptions": null,
+  "name": "obstacleWallCollider1",
+  "ellipseOptions": null,
+  "type": "RECT",
+  "createdISO": "2026-06-05T01:29:03.132Z",
+  "uniqueId": "",
+  "rectOptions": {
+    "borderRadius": 0,
+    "strokeWeight": 0,
+    "width": "78",
+    "fill": "#000000",
+    "opacity": 1,
+    "displayLayer": "TOP",
+    "stroke": "#000000",
+    "topAdjust": 30,
+    "height": "26"
+  },
+  "spriteWorkspaceString": null,
+  "variables": []
+}

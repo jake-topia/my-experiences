@@ -1,0 +1,20 @@
+{
+  "name": "Last One Standing",
+  "height": "1500",
+  "isPlatformGame": false,
+  "description": "Elimination Game",
+  "width": "1500",
+  "category": "",
+  "maxPlayers": 20,
+  "usePhysics": true,
+  "defaultStage": "",
+  "useLegacyWorkspaces": false,
+  "createdISO": "2026-06-03T20:36:28.931Z",
+  "gameId": "qU2KFAvzqkzWyUUEK196",
+  "creator": "7uLBqnJ3KxNXA6Nqtgu3v1Xi1ge2",
+  "coverImage": "gameCoverImages/qU2KFAvzqkzWyUUEK196",
+  "isPublished": true,
+  "publishedPublicVersionAtISO": "2026-06-11T21:20:39.974Z",
+  "publishedTestVersion": "0^8",
+  "publishedTestVersionAtISO": "2026-06-11T21:20:39.974Z"
+}

@@ -1,0 +1,13 @@
+{
+  "gameId": "kZ72ysNfExPtFok0VxXr",
+  "webImageOptions": {
+    "topUrl": "",
+    "bottomUrl": "https://sdk-whack-a-mole.s3.us-east-1.amazonaws.com/defaultStage.png"
+  },
+  "name": "default",
+  "description": "",
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-24T18:38:00.078Z",
+  "uniqueId": "",
+  "stageId": "default"
+}

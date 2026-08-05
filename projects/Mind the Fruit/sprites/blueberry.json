@@ -1,0 +1,19 @@
+{
+  "gameId": "OJMSvhJNq1lBzExJVMr3",
+  "rectOptions": null,
+  "spriteId": "blueberry",
+  "textOptions": null,
+  "name": "blueberry",
+  "ellipseOptions": null,
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-15T22:31:01.476Z",
+  "uniqueId": "",
+  "webImageOptions": {
+    "bottomAdjust": "BRING_TO_FRONT",
+    "topUrl": "",
+    "topAdjust": 0,
+    "bottomUrl": "https://i.imgur.com/pJBi3rT.png"
+  },
+  "spriteWorkspaceString": null,
+  "variables": []
+}

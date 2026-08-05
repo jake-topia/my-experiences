@@ -1,0 +1,13 @@
+{
+  "gameId": "1mQpLXXws7XSemfBTAYX",
+  "webImageOptions": {
+    "topUrl": "",
+    "bottomUrl": "https://ee-tiptoe.s3.us-east-1.amazonaws.com/Clouds%20Version%2FBackground.PNG"
+  },
+  "name": "logo",
+  "description": "",
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-24T18:33:53.262Z",
+  "uniqueId": "",
+  "stageId": "logo"
+}

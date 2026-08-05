@@ -1,0 +1,11 @@
+{
+  "gameId": "OJMSvhJNq1lBzExJVMr3",
+  "defaultValue": false,
+  "scope": "SERVER",
+  "name": "winnerAnnounced",
+  "description": "true if winner has been announced",
+  "type": "BOOLEAN",
+  "variableId": "winnerAnnounced",
+  "createdISO": "2026-06-12T20:32:11.628Z",
+  "uniqueId": ""
+}

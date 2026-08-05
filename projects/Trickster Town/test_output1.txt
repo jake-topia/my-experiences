@@ -1,0 +1,271 @@
+[reveal-debug] refreshUi summary | {"myPlayerId":588,"isRoundPlayer":false,"myAlive":true,"seatMapKeys":[],"roleMapKeys":[],"aliveMapKeys":[],"hasRoleBannerSprite":true,"hasRoleBannerHighlightPrefix":true,"existingNameSprites":0,"existingVoteSprites":0}
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_detail text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_prefix text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_keyword text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_suffix text= opacity=0
+3index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshRoleBanner early return | isRoundPlayer=false myRole=undefined myAlive=true
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshSeatLabels complete | seatPlayerIds= existingNameSprites=0 existingVoteSprites=0
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshUi summary | {"myPlayerId":588,"isRoundPlayer":false,"myAlive":true,"seatMapKeys":[],"roleMapKeys":[],"aliveMapKeys":[],"hasRoleBannerSprite":true,"hasRoleBannerHighlightPrefix":true,"existingNameSprites":0,"existingVoteSprites":0}
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_detail text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_prefix text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_keyword text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_suffix text= opacity=0
+3index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshRoleBanner early return | isRoundPlayer=false myRole=undefined myAlive=true
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshSeatLabels complete | seatPlayerIds= existingNameSprites=0 existingVoteSprites=0
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshUi summary | {"myPlayerId":588,"isRoundPlayer":false,"myAlive":true,"seatMapKeys":[],"roleMapKeys":[],"aliveMapKeys":[],"hasRoleBannerSprite":true,"hasRoleBannerHighlightPrefix":true,"existingNameSprites":0,"existingVoteSprites":0}
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_detail text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_prefix text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_keyword text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_suffix text= opacity=0
+3index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshRoleBanner early return | isRoundPlayer=false myRole=undefined myAlive=true
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshSeatLabels complete | seatPlayerIds= existingNameSprites=0 existingVoteSprites=0
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshUi summary | {"myPlayerId":588,"isRoundPlayer":false,"myAlive":true,"seatMapKeys":[],"roleMapKeys":[],"aliveMapKeys":[],"hasRoleBannerSprite":true,"hasRoleBannerHighlightPrefix":true,"existingNameSprites":0,"existingVoteSprites":0}
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_detail text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_prefix text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_keyword text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_suffix text= opacity=0
+3index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshRoleBanner early return | isRoundPlayer=false myRole=undefined myAlive=true
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshSeatLabels complete | seatPlayerIds= existingNameSprites=0 existingVoteSprites=0
+index-Kh2BpuqP.js:7520 [rolemap-debug] playerRoleMap onVariableChanged newValue={"588":"DOCTOR","590":"TRICKSTER","591":"DETECTIVE","592":"TOWNSFOLK"} oldValue=undefined
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshUi summary | {"myPlayerId":588,"isRoundPlayer":false,"myAlive":true,"seatMapKeys":[],"roleMapKeys":[],"aliveMapKeys":[],"hasRoleBannerSprite":true,"hasRoleBannerHighlightPrefix":true,"existingNameSprites":0,"existingVoteSprites":0}
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_detail text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_prefix text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_keyword text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_suffix text= opacity=0
+3index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshRoleBanner early return | isRoundPlayer=false myRole=undefined myAlive=true
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshSeatLabels complete | seatPlayerIds= existingNameSprites=0 existingVoteSprites=0
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshUi summary | {"myPlayerId":588,"isRoundPlayer":false,"myAlive":true,"seatMapKeys":[],"roleMapKeys":[],"aliveMapKeys":[],"hasRoleBannerSprite":true,"hasRoleBannerHighlightPrefix":true,"existingNameSprites":0,"existingVoteSprites":0}
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_detail text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_prefix text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_keyword text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_suffix text= opacity=0
+3index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshRoleBanner early return | isRoundPlayer=false myRole=undefined myAlive=true
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshSeatLabels complete | seatPlayerIds= existingNameSprites=0 existingVoteSprites=0
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshUi summary | {"myPlayerId":588,"isRoundPlayer":false,"myAlive":true,"seatMapKeys":[],"roleMapKeys":[],"aliveMapKeys":[],"hasRoleBannerSprite":true,"hasRoleBannerHighlightPrefix":true,"existingNameSprites":0,"existingVoteSprites":0}
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_detail text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_prefix text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_keyword text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_suffix text= opacity=0
+3index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshRoleBanner early return | isRoundPlayer=false myRole=undefined myAlive=true
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshSeatLabels complete | seatPlayerIds= existingNameSprites=0 existingVoteSprites=0
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshUi summary | {"myPlayerId":588,"isRoundPlayer":false,"myAlive":true,"seatMapKeys":[],"roleMapKeys":[],"aliveMapKeys":[],"hasRoleBannerSprite":true,"hasRoleBannerHighlightPrefix":true,"existingNameSprites":0,"existingVoteSprites":0}
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_detail text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_prefix text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_keyword text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_suffix text= opacity=0
+3index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshRoleBanner early return | isRoundPlayer=false myRole=undefined myAlive=true
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshSeatLabels complete | seatPlayerIds= existingNameSprites=0 existingVoteSprites=0
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshUi summary | {"myPlayerId":588,"isRoundPlayer":false,"myAlive":true,"seatMapKeys":[],"roleMapKeys":[],"aliveMapKeys":[],"hasRoleBannerSprite":true,"hasRoleBannerHighlightPrefix":true,"existingNameSprites":0,"existingVoteSprites":0}
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_detail text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_prefix text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_keyword text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_suffix text= opacity=0
+3index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshRoleBanner early return | isRoundPlayer=false myRole=undefined myAlive=true
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshSeatLabels complete | seatPlayerIds= existingNameSprites=0 existingVoteSprites=0
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshUi summary | {"myPlayerId":588,"isRoundPlayer":false,"myAlive":true,"seatMapKeys":[],"roleMapKeys":[],"aliveMapKeys":[],"hasRoleBannerSprite":true,"hasRoleBannerHighlightPrefix":true,"existingNameSprites":0,"existingVoteSprites":0}
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_detail text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_prefix text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_keyword text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_suffix text= opacity=0
+3index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshRoleBanner early return | isRoundPlayer=false myRole=undefined myAlive=true
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshSeatLabels complete | seatPlayerIds= existingNameSprites=0 existingVoteSprites=0
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshUi summary | {"myPlayerId":588,"isRoundPlayer":false,"myAlive":true,"seatMapKeys":[],"roleMapKeys":[],"aliveMapKeys":[],"hasRoleBannerSprite":true,"hasRoleBannerHighlightPrefix":true,"existingNameSprites":0,"existingVoteSprites":0}
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_detail text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_prefix text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_keyword text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_suffix text= opacity=0
+3index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshRoleBanner early return | isRoundPlayer=false myRole=undefined myAlive=true
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshSeatLabels complete | seatPlayerIds= existingNameSprites=0 existingVoteSprites=0
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshUi summary | {"myPlayerId":588,"isRoundPlayer":false,"myAlive":true,"seatMapKeys":[],"roleMapKeys":[],"aliveMapKeys":[],"hasRoleBannerSprite":true,"hasRoleBannerHighlightPrefix":true,"existingNameSprites":0,"existingVoteSprites":0}
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_detail text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_prefix text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_keyword text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_suffix text= opacity=0
+3index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshRoleBanner early return | isRoundPlayer=false myRole=undefined myAlive=true
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshSeatLabels complete | seatPlayerIds= existingNameSprites=0 existingVoteSprites=0
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshUi summary | {"myPlayerId":588,"isRoundPlayer":false,"myAlive":true,"seatMapKeys":[],"roleMapKeys":[],"aliveMapKeys":[],"hasRoleBannerSprite":true,"hasRoleBannerHighlightPrefix":true,"existingNameSprites":0,"existingVoteSprites":0}
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_detail text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_prefix text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_keyword text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_suffix text= opacity=0
+3index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshRoleBanner early return | isRoundPlayer=false myRole=undefined myAlive=true
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshSeatLabels complete | seatPlayerIds= existingNameSprites=0 existingVoteSprites=0
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshUi summary | {"myPlayerId":588,"isRoundPlayer":false,"myAlive":true,"seatMapKeys":[],"roleMapKeys":[],"aliveMapKeys":[],"hasRoleBannerSprite":true,"hasRoleBannerHighlightPrefix":true,"existingNameSprites":0,"existingVoteSprites":0}
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_detail text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_prefix text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_keyword text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_suffix text= opacity=0
+3index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshRoleBanner early return | isRoundPlayer=false myRole=undefined myAlive=true
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshSeatLabels complete | seatPlayerIds= existingNameSprites=0 existingVoteSprites=0
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshUi summary | {"myPlayerId":588,"isRoundPlayer":false,"myAlive":true,"seatMapKeys":[],"roleMapKeys":[],"aliveMapKeys":[],"hasRoleBannerSprite":true,"hasRoleBannerHighlightPrefix":true,"existingNameSprites":0,"existingVoteSprites":0}
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_detail text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_prefix text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_keyword text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_suffix text= opacity=0
+3index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshRoleBanner early return | isRoundPlayer=false myRole=undefined myAlive=true
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshSeatLabels complete | seatPlayerIds= existingNameSprites=0 existingVoteSprites=0
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshUi summary | {"myPlayerId":588,"isRoundPlayer":false,"myAlive":true,"seatMapKeys":[],"roleMapKeys":[],"aliveMapKeys":[],"hasRoleBannerSprite":true,"hasRoleBannerHighlightPrefix":true,"existingNameSprites":0,"existingVoteSprites":0}
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_detail text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_prefix text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_keyword text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_suffix text= opacity=0
+3index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshRoleBanner early return | isRoundPlayer=false myRole=undefined myAlive=true
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshSeatLabels complete | seatPlayerIds= existingNameSprites=0 existingVoteSprites=0
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshUi summary | {"myPlayerId":588,"isRoundPlayer":false,"myAlive":true,"seatMapKeys":[],"roleMapKeys":[],"aliveMapKeys":[],"hasRoleBannerSprite":true,"hasRoleBannerHighlightPrefix":true,"existingNameSprites":0,"existingVoteSprites":0}
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_detail text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_prefix text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_keyword text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_suffix text= opacity=0
+3index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshRoleBanner early return | isRoundPlayer=false myRole=undefined myAlive=true
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshSeatLabels complete | seatPlayerIds= existingNameSprites=0 existingVoteSprites=0
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshUi summary | {"myPlayerId":588,"isRoundPlayer":false,"myAlive":true,"seatMapKeys":[],"roleMapKeys":[],"aliveMapKeys":[],"hasRoleBannerSprite":true,"hasRoleBannerHighlightPrefix":true,"existingNameSprites":0,"existingVoteSprites":0}
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_detail text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_prefix text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_keyword text= opacity=0
+index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] updateTextSprite applied | ui_role_banner_highlight_suffix text= opacity=0
+3index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshRoleBanner early return | isRoundPlayer=false myRole=undefined myAlive=true
+9index-Kh2BpuqP.js:7529 stroke thick 1.5
+index-Kh2BpuqP.js:7520 [reveal-debug] refreshSeatLabels complete | seatPlayerIds= existingNameSprites=0 existingVoteSprites=0

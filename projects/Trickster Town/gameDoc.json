@@ -1,0 +1,20 @@
+{
+  "name": "Trickster Town",
+  "height": "1500",
+  "isPlatformGame": false,
+  "description": "",
+  "width": "1500",
+  "category": "",
+  "maxPlayers": 20,
+  "usePhysics": false,
+  "defaultStage": "",
+  "useLegacyWorkspaces": false,
+  "createdISO": "2026-06-30T21:58:17.183Z",
+  "gameId": "ntSt18GsUu2s7MoylXZ5",
+  "creator": "7uLBqnJ3KxNXA6Nqtgu3v1Xi1ge2",
+  "coverImage": "gameCoverImages/ntSt18GsUu2s7MoylXZ5",
+  "isPublished": true,
+  "publishedPublicVersionAtISO": "2026-07-14T21:35:29.241Z",
+  "publishedTestVersion": "0^94",
+  "publishedTestVersionAtISO": "2026-07-14T21:35:29.241Z"
+}

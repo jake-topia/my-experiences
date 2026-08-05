@@ -1,0 +1,11 @@
+{
+  "gameId": "OJMSvhJNq1lBzExJVMr3",
+  "scope": "CONFIGURATION",
+  "name": "publicKey",
+  "description": "",
+  "type": "STRING",
+  "variableId": "publicKey",
+  "createdISO": "2026-06-12T20:32:11.628Z",
+  "uniqueId": "",
+  "defaultValue": "K7Dd9KAmQ9wCH0i0IHCy"
+}

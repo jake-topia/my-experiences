@@ -1,0 +1,11 @@
+{
+  "gameId": "dl7HqdLeQNx7c1i4PMIS",
+  "scope": "CONFIGURATION",
+  "name": "enableCrowdControl",
+  "type": "STRING",
+  "variableId": "enableCrowdControl",
+  "createdISO": "2026-03-11T20:00:24.022Z",
+  "uniqueId": "",
+  "defaultValue": "false",
+  "description": "Set to anything other than \"false\" to turn this on if you'd like tiles to disappear under players if too many are waiting in one spot for too long."
+}

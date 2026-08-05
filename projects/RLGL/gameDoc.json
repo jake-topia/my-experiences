@@ -1,0 +1,20 @@
+{
+  "name": "RLGL",
+  "height": "1500",
+  "isPlatformGame": false,
+  "description": "",
+  "width": "1500",
+  "category": "",
+  "maxPlayers": "10",
+  "usePhysics": true,
+  "defaultStage": "",
+  "useLegacyWorkspaces": false,
+  "createdISO": "2026-06-03T20:35:20.307Z",
+  "gameId": "iSJTYpjfgqZ3Qecw9RP5",
+  "creator": "7uLBqnJ3KxNXA6Nqtgu3v1Xi1ge2",
+  "coverImage": "gameCoverImages/iSJTYpjfgqZ3Qecw9RP5",
+  "isPublished": true,
+  "publishedPublicVersionAtISO": "2026-06-12T18:53:58.388Z",
+  "publishedTestVersion": "0^190",
+  "publishedTestVersionAtISO": "2026-06-12T18:53:58.388Z"
+}

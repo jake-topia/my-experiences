@@ -1,0 +1,18 @@
+{
+  "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": {
+    "topAdjust": "10",
+    "topUrl": "https://ee-soccer-golf.s3.us-east-1.amazonaws.com/Hockey-Board-Front.png",
+    "bottomUrl": "https://ee-soccer-golf.s3.us-east-1.amazonaws.com/Hockey-Board-Back.png"
+  },
+  "spriteId": "hockeyBoard",
+  "textOptions": null,
+  "name": "hockeyBoard",
+  "ellipseOptions": null,
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-24T18:35:30.026Z",
+  "uniqueId": ""
+}

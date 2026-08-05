@@ -1,0 +1,22 @@
+{
+  "gameId": "ua3HjZesrGJoEIgILWaf",
+  "variables": [
+    {
+      "name": "playerId",
+      "description": "",
+      "defaultValue": 0,
+      "type": "NUMBER",
+      "uniqueId": "",
+      "createdISO": "2026-06-24T18:38:45.625Z",
+      "gameId": "ua3HjZesrGJoEIgILWaf",
+      "variableId": "7WkbKzcHyZrgoTv3Yw0R",
+      "gameEventId": "awardBonusPointsNow"
+    }
+  ],
+  "name": "awardBonusPointsNow",
+  "description": "",
+  "type": "GAME_ENGINE",
+  "gameEventId": "awardBonusPointsNow",
+  "createdISO": "2026-06-24T18:38:45.408Z",
+  "uniqueId": ""
+}

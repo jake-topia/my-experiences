@@ -1,0 +1,22 @@
+{
+  "gameId": "K1apTsQlVJkkGlLXCS2f",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": null,
+  "spriteId": "status_text",
+  "textOptions": {
+    "fontFamily": "Arial",
+    "color": "#000000",
+    "size": "25",
+    "topAdjust": 0,
+    "width": "500",
+    "weight": "normal",
+    "displayLayer": "BOTTOM"
+  },
+  "name": "status_text",
+  "ellipseOptions": null,
+  "type": "TEXT",
+  "createdISO": "2026-06-24T18:37:15.916Z",
+  "uniqueId": ""
+}

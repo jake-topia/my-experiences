@@ -1,0 +1,10 @@
+{
+  "gameId": "dl7HqdLeQNx7c1i4PMIS",
+  "scope": "SERVER",
+  "name": "tileStanders",
+  "description": "map how many people standing on this tile",
+  "type": "MAP",
+  "variableId": "tileStanders",
+  "createdISO": "2026-03-11T19:56:01.810Z",
+  "uniqueId": ""
+}

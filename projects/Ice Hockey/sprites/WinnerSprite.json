@@ -1,0 +1,22 @@
+{
+  "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": null,
+  "spriteId": "WinnerSprite",
+  "textOptions": {
+    "fontFamily": "Arial",
+    "color": "#000000",
+    "size": "100",
+    "topAdjust": "1",
+    "width": 600,
+    "weight": "normal",
+    "displayLayer": "TOP"
+  },
+  "name": "WinnerSprite",
+  "ellipseOptions": null,
+  "type": "TEXT",
+  "createdISO": "2026-06-24T18:35:30.026Z",
+  "uniqueId": ""
+}

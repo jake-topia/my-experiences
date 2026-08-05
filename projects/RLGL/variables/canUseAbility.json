@@ -1,0 +1,11 @@
+{
+  "gameId": "iSJTYpjfgqZ3Qecw9RP5",
+  "defaultValue": true,
+  "scope": "SERVER",
+  "name": "canUseAbility",
+  "description": "danger zone ability use timer",
+  "type": "BOOLEAN",
+  "variableId": "canUseAbility",
+  "createdISO": "2026-06-09T02:04:56.010Z",
+  "uniqueId": ""
+}

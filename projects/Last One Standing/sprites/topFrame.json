@@ -1,0 +1,18 @@
+{
+  "gameId": "qU2KFAvzqkzWyUUEK196",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": {
+    "topAdjust": 0,
+    "topUrl": "",
+    "bottomUrl": "https://ee-last-one-standing.s3.us-east-1.amazonaws.com/LMS-Frame-Top.png"
+  },
+  "spriteId": "topFrame",
+  "textOptions": null,
+  "name": "topFrame",
+  "ellipseOptions": null,
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-03T20:36:31.753Z",
+  "uniqueId": ""
+}

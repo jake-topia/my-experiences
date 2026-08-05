@@ -1,0 +1,16 @@
+{
+  "name": "Glitch Lava",
+  "height": "1000",
+  "isPlatformGame": false,
+  "description": "",
+  "width": "1000",
+  "category": "",
+  "maxPlayers": "10",
+  "usePhysics": true,
+  "defaultStage": "logo",
+  "useLegacyWorkspaces": false,
+  "createdISO": "2026-06-24T18:38:42.551Z",
+  "gameId": "ua3HjZesrGJoEIgILWaf",
+  "creator": "7uLBqnJ3KxNXA6Nqtgu3v1Xi1ge2",
+  "coverImage": "gameCoverImages/ua3HjZesrGJoEIgILWaf"
+}

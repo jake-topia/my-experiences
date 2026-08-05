@@ -1,0 +1,11 @@
+{
+  "gameId": "kJPrQdGlXqmUAVW1hwAv",
+  "defaultValue": false,
+  "scope": "SERVER",
+  "name": "firstTileRevealed",
+  "description": "",
+  "type": "BOOLEAN",
+  "variableId": "firstTileRevealed",
+  "createdISO": "2026-06-24T18:34:22.144Z",
+  "uniqueId": ""
+}

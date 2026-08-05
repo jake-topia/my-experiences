@@ -1,0 +1,11 @@
+{
+  "gameId": "liBInmTrxMkugiXKtfzd",
+  "defaultValue": "https://firm-dragon-indirectly.ngrok-free.app/",
+  "scope": "CONFIGURATION",
+  "name": "iframeUrl",
+  "description": "",
+  "type": "STRING",
+  "variableId": "iframeUrl",
+  "createdISO": "2025-06-23T15:25:38.500Z",
+  "uniqueId": ""
+}

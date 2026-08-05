@@ -1,0 +1,22 @@
+{
+  "gameId": "K1apTsQlVJkkGlLXCS2f",
+  "variables": [
+    {
+      "name": "spriteId",
+      "type": "STRING",
+      "description": "",
+      "defaultValue": "",
+      "uniqueId": "",
+      "createdISO": "2026-06-24T18:37:16.302Z",
+      "gameId": "K1apTsQlVJkkGlLXCS2f",
+      "variableId": "Vj4pPaFf3aTDFZv7aAdh",
+      "gameEventId": "clearFeedbackMessage"
+    }
+  ],
+  "name": "clearFeedbackMessage",
+  "description": "",
+  "type": "GAME_ENGINE",
+  "gameEventId": "clearFeedbackMessage",
+  "createdISO": "2026-06-24T18:37:15.895Z",
+  "uniqueId": ""
+}

@@ -1,0 +1,10 @@
+{
+  "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+  "scope": "SERVER",
+  "name": "playerToGoalsMapping",
+  "description": "how many goals each player has",
+  "type": "MAP",
+  "variableId": "playerToGoalsMapping",
+  "createdISO": "2026-06-24T18:35:30.019Z",
+  "uniqueId": ""
+}

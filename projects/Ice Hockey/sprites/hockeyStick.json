@@ -1,0 +1,18 @@
+{
+  "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": {
+    "topAdjust": 50,
+    "topUrl": "https://ee-soccer-golf.s3.us-east-1.amazonaws.com/hockey_stick.webp",
+    "bottomUrl": ""
+  },
+  "spriteId": "hockeyStick",
+  "textOptions": null,
+  "name": "hockeyStick",
+  "ellipseOptions": null,
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-24T18:35:30.027Z",
+  "uniqueId": ""
+}

@@ -1,0 +1,22 @@
+{
+  "gameId": "qU2KFAvzqkzWyUUEK196",
+  "variables": [
+    {
+      "name": "playerID",
+      "type": "STRING",
+      "description": "",
+      "defaultValue": "",
+      "uniqueId": "",
+      "createdISO": "2026-06-03T20:36:31.887Z",
+      "gameId": "qU2KFAvzqkzWyUUEK196",
+      "variableId": "ssp9zvwGE74WC9aHbkqo",
+      "gameEventId": "checkPlayerInGame"
+    }
+  ],
+  "name": "checkPlayerInGame",
+  "description": "",
+  "type": "GAME_ENGINE",
+  "gameEventId": "checkPlayerInGame",
+  "createdISO": "2026-06-03T20:36:31.750Z",
+  "uniqueId": ""
+}

@@ -1,0 +1,22 @@
+{
+  "gameId": "vuCiCM2TT6UzdjJGCZ1n",
+  "variables": [
+    {
+      "name": "playerId",
+      "description": "",
+      "defaultValue": 0,
+      "type": "NUMBER",
+      "uniqueId": "",
+      "createdISO": "2026-06-24T18:39:12.743Z",
+      "gameId": "vuCiCM2TT6UzdjJGCZ1n",
+      "variableId": "qReDNMfriShn4GjR1Bnr",
+      "gameEventId": "restartGame"
+    }
+  ],
+  "name": "restartGame",
+  "description": "",
+  "type": "GAME_ENGINE",
+  "gameEventId": "restartGame",
+  "createdISO": "2026-06-24T18:39:12.594Z",
+  "uniqueId": ""
+}

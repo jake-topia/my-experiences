@@ -1,0 +1,10 @@
+{
+  "gameId": "gz482nmxO1gh7b2G0xQp",
+  "scope": "SERVER",
+  "name": "tileFruitMap",
+  "description": "tileFruitMap: {\"t0\": \"banana\", \"t1\": \"apple\"}",
+  "type": "MAP",
+  "variableId": "tileFruitMap",
+  "createdISO": "2026-07-08T19:08:07.285Z",
+  "uniqueId": ""
+}

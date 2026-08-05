@@ -1,0 +1,11 @@
+{
+  "gameId": "OJMSvhJNq1lBzExJVMr3",
+  "defaultValue": 0,
+  "scope": "SERVER",
+  "name": "roundResolutionNonce",
+  "description": "",
+  "type": "NUMBER",
+  "variableId": "roundResolutionNonce",
+  "createdISO": "2026-06-12T22:50:47.532Z",
+  "uniqueId": ""
+}

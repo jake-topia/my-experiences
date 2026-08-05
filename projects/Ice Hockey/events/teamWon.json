@@ -1,0 +1,10 @@
+{
+  "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+  "variables": [],
+  "name": "teamWon",
+  "description": "After game ends but before resetting everything",
+  "type": "GAME_ENGINE",
+  "gameEventId": "teamWon",
+  "createdISO": "2026-06-24T18:35:30.022Z",
+  "uniqueId": ""
+}

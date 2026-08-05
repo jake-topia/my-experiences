@@ -1,0 +1,22 @@
+{
+  "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": null,
+  "spriteId": "timerSprite",
+  "textOptions": {
+    "fontFamily": "Arial",
+    "color": "#000000",
+    "size": "50",
+    "topAdjust": 40,
+    "width": 600,
+    "weight": "normal",
+    "displayLayer": "TOP"
+  },
+  "name": "timerSprite",
+  "ellipseOptions": null,
+  "type": "TEXT",
+  "createdISO": "2026-06-24T18:35:30.030Z",
+  "uniqueId": ""
+}

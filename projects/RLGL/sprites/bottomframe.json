@@ -1,0 +1,18 @@
+{
+  "gameId": "iSJTYpjfgqZ3Qecw9RP5",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": {
+    "topAdjust": 0,
+    "topUrl": "",
+    "bottomUrl": "https://ee-red-light-green-light.s3.us-east-1.amazonaws.com/Frame-Bottom.png"
+  },
+  "spriteId": "bottomframe",
+  "textOptions": null,
+  "name": "bottomframe",
+  "ellipseOptions": null,
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-03T20:35:23.355Z",
+  "uniqueId": ""
+}

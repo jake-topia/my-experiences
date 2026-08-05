@@ -1,0 +1,23 @@
+{
+  "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": null,
+  "spriteId": "startGame",
+  "textOptions": {
+    "fontFamily": "Arial",
+    "color": "#000000",
+    "size": "35",
+    "bottomAdjust": "BRING_TO_FRONT",
+    "topAdjust": "1",
+    "width": 600,
+    "weight": "normal",
+    "displayLayer": "TOP"
+  },
+  "name": "startGame",
+  "ellipseOptions": null,
+  "type": "TEXT",
+  "createdISO": "2026-06-24T18:35:30.028Z",
+  "uniqueId": ""
+}

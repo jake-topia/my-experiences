@@ -1,0 +1,10 @@
+{
+  "gameId": "gz482nmxO1gh7b2G0xQp",
+  "scope": "SERVER",
+  "name": "playerRewindUsedMap",
+  "description": "shape like {\"123\": true}",
+  "type": "MAP",
+  "variableId": "playerRewindUsedMap",
+  "createdISO": "2026-07-09T01:11:17.766Z",
+  "uniqueId": ""
+}

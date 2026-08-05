@@ -1,0 +1,18 @@
+{
+  "gameId": "OJMSvhJNq1lBzExJVMr3",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": {
+    "topAdjust": 0,
+    "topUrl": "",
+    "bottomUrl": "https://ee-tiptoe.s3.us-east-1.amazonaws.com/ICe%20Version%2FFinishing%20Line.PNG"
+  },
+  "spriteId": "finishLine",
+  "textOptions": null,
+  "name": "finishLine",
+  "ellipseOptions": null,
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-12T20:32:11.629Z",
+  "uniqueId": ""
+}

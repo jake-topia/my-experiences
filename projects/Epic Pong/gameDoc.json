@@ -1,0 +1,16 @@
+{
+  "name": "Epic Pong",
+  "height": "1000",
+  "isPlatformGame": false,
+  "description": "",
+  "width": "1000",
+  "category": "",
+  "maxPlayers": "4",
+  "usePhysics": true,
+  "defaultStage": "logo",
+  "useLegacyWorkspaces": false,
+  "createdISO": "2026-06-24T18:36:42.818Z",
+  "gameId": "BNGcnGXSVFr70XJ3lK1s",
+  "creator": "7uLBqnJ3KxNXA6Nqtgu3v1Xi1ge2",
+  "coverImage": "gameCoverImages/BNGcnGXSVFr70XJ3lK1s"
+}

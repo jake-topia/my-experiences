@@ -1,0 +1,11 @@
+{
+  "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+  "defaultValue": false,
+  "scope": "SERVER",
+  "name": "PuckCanCollide",
+  "description": "After a goal, variable to see if the puck can collide with anything.",
+  "type": "BOOLEAN",
+  "variableId": "PuckCanCollide",
+  "createdISO": "2026-06-24T18:35:30.018Z",
+  "uniqueId": ""
+}

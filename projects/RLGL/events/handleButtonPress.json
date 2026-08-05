@@ -1,0 +1,22 @@
+{
+  "gameId": "iSJTYpjfgqZ3Qecw9RP5",
+  "name": "handleButtonPress",
+  "description": "for when the Activate Danger... or Change Light buttons are pressed",
+  "type": "INPUT",
+  "gameEventId": "handleButtonPress",
+  "createdISO": "2026-06-09T22:44:42.030Z",
+  "uniqueId": "",
+  "variables": [
+    {
+      "name": "buttonName",
+      "type": "STRING",
+      "description": "such as \"light\" or \"danger\"",
+      "defaultValue": "",
+      "uniqueId": "",
+      "createdISO": "2026-06-09T22:44:42.109Z",
+      "gameId": "iSJTYpjfgqZ3Qecw9RP5",
+      "variableId": "MiakByvKfIKxPHuPQt3m",
+      "gameEventId": "handleButtonPress"
+    }
+  ]
+}

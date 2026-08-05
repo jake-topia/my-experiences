@@ -1,0 +1,33 @@
+{
+  "gameId": "BNGcnGXSVFr70XJ3lK1s",
+  "variables": [
+    {
+      "name": "playerId",
+      "type": "NUMBER",
+      "description": "",
+      "defaultValue": 0,
+      "uniqueId": "",
+      "createdISO": "2026-06-24T18:36:45.817Z",
+      "gameId": "BNGcnGXSVFr70XJ3lK1s",
+      "variableId": "R2k94Z44wQlaBo7YRDtG",
+      "gameEventId": "pong_paddleRelease"
+    },
+    {
+      "name": "direction",
+      "type": "STRING",
+      "description": "",
+      "defaultValue": "",
+      "uniqueId": "",
+      "createdISO": "2026-06-24T18:36:45.817Z",
+      "gameId": "BNGcnGXSVFr70XJ3lK1s",
+      "variableId": "gtEMNCK7ywT75cWTPQrQ",
+      "gameEventId": "pong_paddleRelease"
+    }
+  ],
+  "name": "pong_paddleRelease",
+  "description": "",
+  "type": "INPUT",
+  "gameEventId": "pong_paddleRelease",
+  "createdISO": "2026-06-24T18:36:45.639Z",
+  "uniqueId": ""
+}

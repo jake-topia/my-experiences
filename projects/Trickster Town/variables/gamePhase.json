@@ -1,0 +1,11 @@
+{
+  "gameId": "ntSt18GsUu2s7MoylXZ5",
+  "defaultValue": "WAITING",
+  "scope": "SERVER",
+  "name": "gamePhase",
+  "description": "",
+  "type": "STRING",
+  "variableId": "gamePhase",
+  "createdISO": "2026-06-30T22:00:06.737Z",
+  "uniqueId": ""
+}

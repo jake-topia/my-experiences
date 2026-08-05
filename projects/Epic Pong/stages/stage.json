@@ -1,0 +1,13 @@
+{
+  "gameId": "BNGcnGXSVFr70XJ3lK1s",
+  "webImageOptions": {
+    "topUrl": "",
+    "bottomUrl": "https://ee-last-card.s3.us-east-1.amazonaws.com/Epic_Pong_background.png"
+  },
+  "name": "stage",
+  "description": "",
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-24T18:36:45.639Z",
+  "uniqueId": "",
+  "stageId": "stage"
+}

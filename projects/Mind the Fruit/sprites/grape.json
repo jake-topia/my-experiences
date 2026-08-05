@@ -1,0 +1,19 @@
+{
+  "gameId": "OJMSvhJNq1lBzExJVMr3",
+  "rectOptions": null,
+  "spriteId": "grape",
+  "textOptions": null,
+  "name": "grape",
+  "ellipseOptions": null,
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-15T22:27:12.401Z",
+  "uniqueId": "",
+  "webImageOptions": {
+    "bottomAdjust": "BRING_TO_FRONT",
+    "topUrl": "",
+    "topAdjust": 0,
+    "bottomUrl": "https://i.imgur.com/3IXmM4v.png"
+  },
+  "spriteWorkspaceString": null,
+  "variables": []
+}

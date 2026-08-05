@@ -1,0 +1,24 @@
+{
+  "gameId": "ua3HjZesrGJoEIgILWaf",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "webImageOptions": null,
+  "rectOptions": {
+    "borderRadius": 0,
+    "strokeWeight": 0,
+    "topAdjust": 0,
+    "width": "50",
+    "fill": "#e0bb00",
+    "opacity": 1,
+    "displayLayer": "BOTTOM",
+    "stroke": "#000000",
+    "height": "50"
+  },
+  "spriteId": "start_pad_asset",
+  "textOptions": null,
+  "name": "start_pad_asset",
+  "ellipseOptions": null,
+  "type": "RECT",
+  "createdISO": "2026-06-24T18:38:45.412Z",
+  "uniqueId": ""
+}

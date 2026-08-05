@@ -1,0 +1,10 @@
+{
+  "gameId": "kJPrQdGlXqmUAVW1hwAv",
+  "scope": "SERVER",
+  "name": "numGoodCollides",
+  "description": "Record<string, any> from playerId to numGoodCollides (cols w/ green tiles)",
+  "type": "MAP",
+  "variableId": "numGoodCollides",
+  "createdISO": "2026-06-24T18:34:22.144Z",
+  "uniqueId": ""
+}

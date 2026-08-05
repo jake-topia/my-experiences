@@ -1,0 +1,16 @@
+{
+  "name": "TipToe Ice Prod",
+  "height": "1500",
+  "isPlatformGame": false,
+  "description": "",
+  "width": "1500",
+  "category": "",
+  "maxPlayers": 20,
+  "usePhysics": true,
+  "defaultStage": "logo",
+  "useLegacyWorkspaces": false,
+  "createdISO": "2026-06-03T20:08:31.500Z",
+  "gameId": "AiSjd39UyVd5W9pWNXCZ",
+  "creator": "7uLBqnJ3KxNXA6Nqtgu3v1Xi1ge2",
+  "coverImage": "gameCoverImages/AiSjd39UyVd5W9pWNXCZ"
+}

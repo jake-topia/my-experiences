@@ -1,0 +1,19 @@
+{
+  "gameId": "kZ72ysNfExPtFok0VxXr",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": {
+    "bottomAdjust": "BRING_TO_FRONT",
+    "topAdjust": 0,
+    "topUrl": "",
+    "bottomUrl": "https://sdk-whack-a-mole.s3.us-east-1.amazonaws.com/sushiLayer1.png"
+  },
+  "spriteId": "sushiLayer1",
+  "textOptions": null,
+  "name": "sushiLayer1",
+  "ellipseOptions": null,
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-24T18:38:00.093Z",
+  "uniqueId": ""
+}

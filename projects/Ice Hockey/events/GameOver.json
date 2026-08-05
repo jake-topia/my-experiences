@@ -1,0 +1,22 @@
+{
+  "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+  "variables": [
+    {
+      "name": "WinningText",
+      "description": "Text to display for the winning team",
+      "defaultValue": "",
+      "type": "STRING",
+      "uniqueId": "",
+      "createdISO": "2026-06-24T18:35:30.281Z",
+      "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+      "variableId": "MkOWRbLz9PH8djkaDMHy",
+      "gameEventId": "GameOver"
+    }
+  ],
+  "name": "GameOver",
+  "description": "",
+  "type": "GAME_ENGINE",
+  "gameEventId": "GameOver",
+  "createdISO": "2026-06-24T18:35:30.020Z",
+  "uniqueId": ""
+}

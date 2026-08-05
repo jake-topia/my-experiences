@@ -1,0 +1,22 @@
+{
+  "gameId": "liBInmTrxMkugiXKtfzd",
+  "variables": [
+    {
+      "name": "playerId",
+      "description": "",
+      "defaultValue": "",
+      "type": "STRING",
+      "uniqueId": "",
+      "createdISO": "2025-06-23T15:25:38.707Z",
+      "gameId": "liBInmTrxMkugiXKtfzd",
+      "variableId": "SvyTAqCpfFAaZ363EviB",
+      "gameEventId": "movingForward"
+    }
+  ],
+  "name": "movingForward",
+  "description": "add forward motion to a boat",
+  "type": "INPUT",
+  "gameEventId": "movingForward",
+  "createdISO": "2025-06-23T15:25:38.504Z",
+  "uniqueId": ""
+}

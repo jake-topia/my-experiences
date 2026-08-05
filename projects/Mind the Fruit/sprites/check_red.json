@@ -1,0 +1,19 @@
+{
+  "gameId": "OJMSvhJNq1lBzExJVMr3",
+  "rectOptions": null,
+  "spriteId": "check_red",
+  "textOptions": null,
+  "name": "check_red",
+  "ellipseOptions": null,
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-07-17T06:21:08.305Z",
+  "uniqueId": "",
+  "webImageOptions": {
+    "topAdjust": 0,
+    "topUrl": "",
+    "bottomUrl": "https://i.imgur.com/pxFkOXV.png",
+    "bottomAdjust": "BRING_TO_FRONT"
+  },
+  "spriteWorkspaceString": null,
+  "variables": []
+}

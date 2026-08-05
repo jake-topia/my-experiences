@@ -1,0 +1,22 @@
+{
+  "gameId": "iSJTYpjfgqZ3Qecw9RP5",
+  "variables": [
+    {
+      "name": "playerId",
+      "type": "STRING",
+      "description": "",
+      "defaultValue": "",
+      "uniqueId": "",
+      "createdISO": "2026-06-03T20:35:23.514Z",
+      "gameId": "iSJTYpjfgqZ3Qecw9RP5",
+      "variableId": "tEJwO7xQKiL07bnhVECS",
+      "gameEventId": "playerHitWall"
+    }
+  ],
+  "name": "playerHitWall",
+  "description": "",
+  "type": "GAME_ENGINE",
+  "gameEventId": "playerHitWall",
+  "createdISO": "2026-06-03T20:35:23.354Z",
+  "uniqueId": ""
+}

@@ -1,0 +1,11 @@
+{
+  "gameId": "UJkR6vQN474DtZu3jtdP",
+  "name": "canCollide",
+  "description": "can I collide with tiles /winbox right now?",
+  "variableId": "canCollide",
+  "createdISO": "2025-10-16T19:58:50.228Z",
+  "uniqueId": "",
+  "defaultValue": false,
+  "scope": "SERVER",
+  "type": "MAP"
+}

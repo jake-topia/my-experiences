@@ -1,0 +1,11 @@
+{
+  "gameId": "gz482nmxO1gh7b2G0xQp",
+  "defaultValue": false,
+  "scope": "SERVER",
+  "name": "gameStarted",
+  "description": "",
+  "type": "BOOLEAN",
+  "variableId": "gameStarted",
+  "createdISO": "2026-07-09T01:17:04.487Z",
+  "uniqueId": ""
+}

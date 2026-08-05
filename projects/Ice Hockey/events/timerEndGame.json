@@ -1,0 +1,10 @@
+{
+  "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+  "variables": [],
+  "name": "timerEndGame",
+  "description": "Game ending from timer going down",
+  "type": "GAME_ENGINE",
+  "gameEventId": "timerEndGame",
+  "createdISO": "2026-06-24T18:35:30.022Z",
+  "uniqueId": ""
+}

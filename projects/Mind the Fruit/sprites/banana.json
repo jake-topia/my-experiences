@@ -1,0 +1,19 @@
+{
+  "gameId": "OJMSvhJNq1lBzExJVMr3",
+  "rectOptions": null,
+  "spriteId": "banana",
+  "textOptions": null,
+  "name": "banana",
+  "ellipseOptions": null,
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-15T22:25:42.898Z",
+  "uniqueId": "",
+  "webImageOptions": {
+    "bottomAdjust": "BRING_TO_FRONT",
+    "topUrl": "",
+    "topAdjust": 0,
+    "bottomUrl": "https://i.imgur.com/lxyV24G.png"
+  },
+  "spriteWorkspaceString": null,
+  "variables": []
+}

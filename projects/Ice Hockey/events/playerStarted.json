@@ -1,0 +1,10 @@
+{
+  "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+  "variables": [],
+  "name": "playerStarted",
+  "description": "Player pressed start button",
+  "type": "GAME_ENGINE",
+  "gameEventId": "playerStarted",
+  "createdISO": "2026-06-24T18:35:30.021Z",
+  "uniqueId": ""
+}

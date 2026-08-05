@@ -1,0 +1,22 @@
+{
+  "gameId": "scHdunWbiFdqcVinaXbX",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": null,
+  "spriteId": "baseText",
+  "textOptions": {
+    "fontFamily": "Arial",
+    "color": "#000000",
+    "size": 24,
+    "topAdjust": 10,
+    "width": 600,
+    "weight": "normal",
+    "displayLayer": "TOP"
+  },
+  "name": "baseText",
+  "ellipseOptions": null,
+  "type": "TEXT",
+  "createdISO": "2026-07-21T00:34:04.136Z",
+  "uniqueId": ""
+}

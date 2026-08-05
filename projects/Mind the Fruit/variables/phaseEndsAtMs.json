@@ -1,0 +1,11 @@
+{
+  "gameId": "OJMSvhJNq1lBzExJVMr3",
+  "defaultValue": 0,
+  "scope": "SERVER",
+  "name": "phaseEndsAtMs",
+  "description": "",
+  "type": "NUMBER",
+  "variableId": "phaseEndsAtMs",
+  "createdISO": "2026-06-12T22:48:29.506Z",
+  "uniqueId": ""
+}

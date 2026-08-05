@@ -1,0 +1,13 @@
+{
+  "gameId": "t4fX3gjnkkhVJmK4K79x",
+  "webImageOptions": {
+    "topUrl": "",
+    "bottomUrl": "https://ee-efence.s3.us-east-1.amazonaws.com/floor-2.png"
+  },
+  "name": "floor",
+  "description": "",
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-24T18:34:55.422Z",
+  "uniqueId": "",
+  "stageId": "floor"
+}

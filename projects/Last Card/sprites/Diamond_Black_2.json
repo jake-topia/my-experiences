@@ -1,0 +1,18 @@
+{
+  "gameId": "K1apTsQlVJkkGlLXCS2f",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": {
+    "topAdjust": 0,
+    "topUrl": "https://ee-last-card.s3.us-east-1.amazonaws.com/small/Diamond_Black_2.png",
+    "bottomUrl": ""
+  },
+  "spriteId": "Diamond_Black_2",
+  "textOptions": null,
+  "name": "Diamond_Black_2",
+  "ellipseOptions": null,
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-24T18:37:15.899Z",
+  "uniqueId": ""
+}

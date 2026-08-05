@@ -1,0 +1,33 @@
+{
+  "gameId": "AiSjd39UyVd5W9pWNXCZ",
+  "variables": [
+    {
+      "name": "playerId",
+      "type": "NUMBER",
+      "description": "",
+      "defaultValue": "-1",
+      "uniqueId": "",
+      "createdISO": "2026-06-03T20:08:34.999Z",
+      "gameId": "AiSjd39UyVd5W9pWNXCZ",
+      "variableId": "FBEEtKFGevrnr2uBxzqa",
+      "gameEventId": "hitboxOverlap"
+    },
+    {
+      "name": "tile",
+      "type": "STRING",
+      "description": "",
+      "defaultValue": "",
+      "uniqueId": "",
+      "createdISO": "2026-06-03T20:08:35.000Z",
+      "gameId": "AiSjd39UyVd5W9pWNXCZ",
+      "variableId": "MmnrzdPVJB0W0w760US1",
+      "gameEventId": "hitboxOverlap"
+    }
+  ],
+  "name": "hitboxOverlap",
+  "description": "",
+  "type": "INPUT",
+  "gameEventId": "hitboxOverlap",
+  "createdISO": "2026-06-03T20:08:34.798Z",
+  "uniqueId": ""
+}

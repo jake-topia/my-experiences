@@ -1,0 +1,24 @@
+{
+  "gameId": "OJMSvhJNq1lBzExJVMr3",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "webImageOptions": null,
+  "rectOptions": {
+    "borderRadius": "10",
+    "strokeWeight": 0,
+    "topAdjust": 0,
+    "width": "150",
+    "fill": "#4a69c4",
+    "opacity": 1,
+    "displayLayer": "BOTTOM",
+    "stroke": "#ff0000",
+    "height": "150"
+  },
+  "spriteId": "tile",
+  "textOptions": null,
+  "name": "tile",
+  "ellipseOptions": null,
+  "type": "RECT",
+  "createdISO": "2026-06-12T20:32:11.630Z",
+  "uniqueId": ""
+}

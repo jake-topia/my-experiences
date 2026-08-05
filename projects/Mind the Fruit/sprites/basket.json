@@ -1,0 +1,18 @@
+{
+  "gameId": "OJMSvhJNq1lBzExJVMr3",
+  "rectOptions": null,
+  "spriteId": "basket",
+  "textOptions": null,
+  "name": "basket",
+  "ellipseOptions": null,
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-07-17T02:14:02.786Z",
+  "uniqueId": "",
+  "webImageOptions": {
+    "topAdjust": 0,
+    "topUrl": "",
+    "bottomUrl": "https://i.imgur.com/fyn1obb.png"
+  },
+  "spriteWorkspaceString": null,
+  "variables": []
+}

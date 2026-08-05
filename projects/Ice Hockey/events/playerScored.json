@@ -1,0 +1,33 @@
+{
+  "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+  "variables": [
+    {
+      "name": "teamIndex",
+      "description": "The index of the team that scored",
+      "defaultValue": 0,
+      "type": "NUMBER",
+      "uniqueId": "",
+      "createdISO": "2026-06-24T18:35:30.481Z",
+      "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+      "variableId": "0dp0IGJJxj7fO0PEzKyp",
+      "gameEventId": "playerScored"
+    },
+    {
+      "name": "playerId",
+      "description": "The player id of the last player to touch the ball (player that technically scored). Counts even for an own goal.",
+      "defaultValue": 0,
+      "type": "NUMBER",
+      "uniqueId": "",
+      "createdISO": "2026-06-24T18:35:30.545Z",
+      "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+      "variableId": "EA9mAsnTHPxwnqsHMzUd",
+      "gameEventId": "playerScored"
+    }
+  ],
+  "name": "playerScored",
+  "description": "",
+  "type": "GAME_ENGINE",
+  "gameEventId": "playerScored",
+  "createdISO": "2026-06-24T18:35:30.021Z",
+  "uniqueId": ""
+}

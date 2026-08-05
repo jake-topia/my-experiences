@@ -1,0 +1,18 @@
+{
+  "gameId": "CrWBfIVdVqfP5yJIM6ka",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": {
+    "topAdjust": 0,
+    "topUrl": "https://ee-last-card.s3.us-east-1.amazonaws.com/small/Heart_Red_1.png",
+    "bottomUrl": ""
+  },
+  "spriteId": "Heart_Red_1",
+  "textOptions": null,
+  "name": "Heart_Red_1",
+  "ellipseOptions": null,
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-03T20:58:26.700Z",
+  "uniqueId": ""
+}

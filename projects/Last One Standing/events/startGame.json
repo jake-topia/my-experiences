@@ -1,0 +1,10 @@
+{
+  "gameId": "qU2KFAvzqkzWyUUEK196",
+  "variables": [],
+  "name": "startGame",
+  "description": "Adds the threat to the game",
+  "type": "GAME_ENGINE",
+  "gameEventId": "startGame",
+  "createdISO": "2026-06-03T20:36:31.752Z",
+  "uniqueId": ""
+}

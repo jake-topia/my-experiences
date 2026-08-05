@@ -1,0 +1,22 @@
+{
+  "gameId": "vuCiCM2TT6UzdjJGCZ1n",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": null,
+  "spriteId": "ctf_team_blue_btn",
+  "textOptions": {
+    "fontFamily": "Arial",
+    "color": "#000000",
+    "size": 24,
+    "topAdjust": 0,
+    "width": 600,
+    "weight": "normal",
+    "displayLayer": "BOTTOM"
+  },
+  "name": "ctf_team_blue_btn",
+  "ellipseOptions": null,
+  "type": "TEXT",
+  "createdISO": "2026-06-24T18:39:12.595Z",
+  "uniqueId": ""
+}

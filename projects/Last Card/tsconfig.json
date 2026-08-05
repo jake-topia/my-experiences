@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "strict": false,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "noLib": true,
+    "typeRoots": [
+      "./types/dts",
+      "./types/lib"
+    ],
+    "paths": {
+      "*": [
+        "./types/dts/*",
+        "./types/lib/*"
+      ]
+    }
+  },
+  "include": [
+    "scripts/**/*.ts",
+    "types/dts/**/*.d.ts",
+    "types/lib/**/*.d.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

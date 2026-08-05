@@ -1,0 +1,11 @@
+{
+  "gameId": "ntSt18GsUu2s7MoylXZ5",
+  "defaultValue": "30",
+  "scope": "SERVER",
+  "name": "configuredVotingSeconds",
+  "description": "",
+  "type": "NUMBER",
+  "variableId": "configuredVotingSeconds",
+  "createdISO": "2026-06-30T22:02:38.129Z",
+  "uniqueId": ""
+}

@@ -1,0 +1,18 @@
+{
+  "gameId": "liBInmTrxMkugiXKtfzd",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": {
+    "topAdjust": 0,
+    "topUrl": "https://sdk-skill-sprint.s3.us-east-1.amazonaws.com/boat6.png",
+    "bottomUrl": "https://sdk-skill-sprint.s3.us-east-1.amazonaws.com/boat6.png"
+  },
+  "spriteId": "boat6",
+  "textOptions": null,
+  "name": "boat6",
+  "ellipseOptions": null,
+  "type": "WEB_IMAGE",
+  "createdISO": "2025-06-23T15:25:38.507Z",
+  "uniqueId": ""
+}

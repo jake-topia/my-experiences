@@ -1,0 +1,10 @@
+{
+  "gameId": "OJMSvhJNq1lBzExJVMr3",
+  "scope": "SERVER",
+  "name": "safeTileMap",
+  "type": "MAP",
+  "variableId": "safeTileMap",
+  "createdISO": "2026-06-12T22:49:47.578Z",
+  "uniqueId": "",
+  "description": "safeTileMap: {\"t1\": true, \"t8\": true, \"t14\": true}"
+}

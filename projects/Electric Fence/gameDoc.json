@@ -1,0 +1,16 @@
+{
+  "name": "Electric Fence",
+  "height": "1000",
+  "isPlatformGame": false,
+  "description": "A lightning fast multiplayer maze racing game. Reach the gold ball before anyone else while avoiding the electrified walls and obstacles!",
+  "width": "1000",
+  "category": "",
+  "maxPlayers": "5",
+  "usePhysics": true,
+  "defaultStage": "logo",
+  "useLegacyWorkspaces": false,
+  "createdISO": "2026-06-24T18:34:52.408Z",
+  "gameId": "t4fX3gjnkkhVJmK4K79x",
+  "creator": "7uLBqnJ3KxNXA6Nqtgu3v1Xi1ge2",
+  "coverImage": "gameCoverImages/t4fX3gjnkkhVJmK4K79x"
+}

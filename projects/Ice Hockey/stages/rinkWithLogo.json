@@ -1,0 +1,13 @@
+{
+  "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+  "webImageOptions": {
+    "topUrl": "",
+    "bottomUrl": "https://ee-soccer-golf.s3.us-east-1.amazonaws.com/Hockey-Rink-BG.webp"
+  },
+  "name": "rinkWithLogo",
+  "description": "",
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-24T18:35:30.019Z",
+  "uniqueId": "",
+  "stageId": "rinkWithLogo"
+}

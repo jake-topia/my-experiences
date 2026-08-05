@@ -1,0 +1,11 @@
+{
+  "gameId": "OJMSvhJNq1lBzExJVMr3",
+  "defaultValue": 0,
+  "scope": "SERVER",
+  "name": "roundNumber",
+  "description": "",
+  "type": "NUMBER",
+  "variableId": "roundNumber",
+  "createdISO": "2026-06-12T22:48:39.406Z",
+  "uniqueId": ""
+}

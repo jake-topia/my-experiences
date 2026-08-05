@@ -1,0 +1,25 @@
+{
+  "gameId": "OJMSvhJNq1lBzExJVMr3",
+  "webImageOptions": null,
+  "spriteId": "displayRect",
+  "textOptions": null,
+  "name": "displayRect",
+  "ellipseOptions": null,
+  "type": "RECT",
+  "createdISO": "2026-06-12T20:48:07.358Z",
+  "uniqueId": "",
+  "rectOptions": {
+    "borderRadius": "15",
+    "strokeWeight": 0,
+    "topAdjust": 0,
+    "width": "300",
+    "fill": "#9ea1ff",
+    "opacity": 1,
+    "displayLayer": "BOTTOM",
+    "stroke": "#000000",
+    "height": "300",
+    "bottomAdjust": "NONE"
+  },
+  "spriteWorkspaceString": null,
+  "variables": []
+}

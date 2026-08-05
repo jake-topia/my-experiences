@@ -1,0 +1,22 @@
+{
+  "gameId": "sKQ1aeYCOrbrzqe5MpKp",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": null,
+  "spriteId": "HostText",
+  "textOptions": {
+    "fontFamily": "Arial",
+    "color": "#000000",
+    "size": "30",
+    "topAdjust": 0,
+    "width": 600,
+    "weight": "normal",
+    "displayLayer": "BOTTOM"
+  },
+  "name": "HostText",
+  "ellipseOptions": null,
+  "type": "TEXT",
+  "createdISO": "2026-06-24T18:35:30.024Z",
+  "uniqueId": ""
+}

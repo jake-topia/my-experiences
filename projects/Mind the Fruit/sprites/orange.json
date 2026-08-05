@@ -1,0 +1,19 @@
+{
+  "gameId": "OJMSvhJNq1lBzExJVMr3",
+  "rectOptions": null,
+  "webImageOptions": {
+    "bottomAdjust": "BRING_TO_FRONT",
+    "topAdjust": 0,
+    "topUrl": "",
+    "bottomUrl": "https://i.imgur.com/jod2MjC.png"
+  },
+  "spriteId": "orange",
+  "textOptions": null,
+  "name": "orange",
+  "ellipseOptions": null,
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-07-17T01:46:46.545Z",
+  "uniqueId": "",
+  "variables": [],
+  "spriteWorkspaceString": null
+}

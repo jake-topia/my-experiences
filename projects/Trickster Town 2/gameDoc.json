@@ -1,0 +1,20 @@
+{
+  "name": "Trickster Town 2",
+  "height": "1500",
+  "isPlatformGame": false,
+  "description": "",
+  "width": "1500",
+  "category": "",
+  "usePhysics": false,
+  "defaultStage": "",
+  "useLegacyWorkspaces": false,
+  "createdISO": "2026-07-21T00:34:01.521Z",
+  "gameId": "scHdunWbiFdqcVinaXbX",
+  "creator": "7uLBqnJ3KxNXA6Nqtgu3v1Xi1ge2",
+  "coverImage": "gameCoverImages/scHdunWbiFdqcVinaXbX",
+  "maxPlayers": 20,
+  "isPublished": true,
+  "publishedPublicVersionAtISO": "2026-07-21T21:49:58.434Z",
+  "publishedTestVersion": "0^8",
+  "publishedTestVersionAtISO": "2026-07-21T21:49:58.434Z"
+}

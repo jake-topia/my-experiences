@@ -1,0 +1,24 @@
+{
+  "gameId": "ua3HjZesrGJoEIgILWaf",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "webImageOptions": null,
+  "rectOptions": {
+    "borderRadius": 0,
+    "strokeWeight": 0,
+    "topAdjust": 0,
+    "width": "50",
+    "fill": "#d35017",
+    "opacity": 1,
+    "displayLayer": "BOTTOM",
+    "stroke": "#000000",
+    "height": "50"
+  },
+  "spriteId": "lava_tile_asset",
+  "textOptions": null,
+  "name": "lava_tile_asset",
+  "ellipseOptions": null,
+  "type": "RECT",
+  "createdISO": "2026-06-24T18:38:45.411Z",
+  "uniqueId": ""
+}

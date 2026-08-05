@@ -1,0 +1,22 @@
+{
+  "gameId": "1mQpLXXws7XSemfBTAYX",
+  "variables": [
+    {
+      "name": "playerId",
+      "type": "NUMBER",
+      "description": "",
+      "defaultValue": "-1",
+      "uniqueId": "",
+      "createdISO": "2026-06-24T18:33:53.438Z",
+      "gameId": "1mQpLXXws7XSemfBTAYX",
+      "variableId": "K9CZC2xaofTdXr2A22wE",
+      "gameEventId": "startboxOverlap"
+    }
+  ],
+  "name": "startboxOverlap",
+  "description": "",
+  "type": "INPUT",
+  "gameEventId": "startboxOverlap",
+  "createdISO": "2026-06-24T18:33:53.263Z",
+  "uniqueId": ""
+}

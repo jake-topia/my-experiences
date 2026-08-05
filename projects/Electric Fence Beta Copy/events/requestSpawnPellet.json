@@ -1,0 +1,44 @@
+{
+  "gameId": "JgsO2kR0r5mM5iYsubyO",
+  "variables": [
+    {
+      "name": "positionX",
+      "type": "NUMBER",
+      "description": "",
+      "defaultValue": 0,
+      "uniqueId": "",
+      "createdISO": "2025-06-02T19:52:50.202Z",
+      "gameId": "JgsO2kR0r5mM5iYsubyO",
+      "variableId": "3BYsPN9SD88MPhmxdU8l",
+      "gameEventId": "requestSpawnPellet"
+    },
+    {
+      "name": "levelIndex",
+      "type": "NUMBER",
+      "description": "",
+      "defaultValue": 0,
+      "uniqueId": "",
+      "createdISO": "2025-06-02T19:52:50.202Z",
+      "gameId": "JgsO2kR0r5mM5iYsubyO",
+      "variableId": "Q896ZijIHQMWFWlicfFS",
+      "gameEventId": "requestSpawnPellet"
+    },
+    {
+      "name": "positionY",
+      "type": "NUMBER",
+      "description": "",
+      "defaultValue": 0,
+      "uniqueId": "",
+      "createdISO": "2025-06-02T19:52:50.202Z",
+      "gameId": "JgsO2kR0r5mM5iYsubyO",
+      "variableId": "jjmS9Fum8VlBx3CQeMZF",
+      "gameEventId": "requestSpawnPellet"
+    }
+  ],
+  "name": "requestSpawnPellet",
+  "description": "",
+  "type": "GAME_ENGINE",
+  "gameEventId": "requestSpawnPellet",
+  "createdISO": "2025-06-02T19:52:49.845Z",
+  "uniqueId": ""
+}

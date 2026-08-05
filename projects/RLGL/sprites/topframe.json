@@ -1,0 +1,19 @@
+{
+  "gameId": "iSJTYpjfgqZ3Qecw9RP5",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": {
+    "bottomAdjust": "BRING_TO_BACK",
+    "topAdjust": 0,
+    "topUrl": "https://ee-red-light-green-light.s3.us-east-1.amazonaws.com/Frame-Top.png",
+    "bottomUrl": "https://ee-red-light-green-light.s3.us-east-1.amazonaws.com/Frame-Top.png"
+  },
+  "spriteId": "topframe",
+  "textOptions": null,
+  "name": "topframe",
+  "ellipseOptions": null,
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-03T20:35:23.356Z",
+  "uniqueId": ""
+}

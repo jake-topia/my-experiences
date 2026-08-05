@@ -1,0 +1,11 @@
+{
+  "gameId": "liBInmTrxMkugiXKtfzd",
+  "defaultValue": 0,
+  "scope": "LOCAL",
+  "name": "playerPosition",
+  "description": "",
+  "type": "NUMBER",
+  "variableId": "playerPosition",
+  "createdISO": "2025-06-23T15:25:38.502Z",
+  "uniqueId": ""
+}

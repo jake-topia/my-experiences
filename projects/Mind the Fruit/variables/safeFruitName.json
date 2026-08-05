@@ -1,0 +1,11 @@
+{
+  "gameId": "OJMSvhJNq1lBzExJVMr3",
+  "defaultValue": "",
+  "scope": "SERVER",
+  "name": "safeFruitName",
+  "description": "",
+  "type": "STRING",
+  "variableId": "safeFruitName",
+  "createdISO": "2026-06-12T22:50:10.673Z",
+  "uniqueId": ""
+}

@@ -1,0 +1,44 @@
+{
+  "gameId": "scHdunWbiFdqcVinaXbX",
+  "name": "playerChoosesTrialNominee",
+  "description": "",
+  "type": "INPUT",
+  "gameEventId": "playerChoosesTrialNominee",
+  "createdISO": "2026-07-21T01:09:31.017Z",
+  "uniqueId": "",
+  "variables": [
+    {
+      "name": "phaseNonce",
+      "type": "NUMBER",
+      "description": "",
+      "defaultValue": 0,
+      "uniqueId": "",
+      "createdISO": "2026-07-21T01:09:31.104Z",
+      "gameId": "scHdunWbiFdqcVinaXbX",
+      "variableId": "FivPTwzBWarSI329wcws",
+      "gameEventId": "playerChoosesTrialNominee"
+    },
+    {
+      "name": "targetPlayerId",
+      "type": "NUMBER",
+      "description": "",
+      "defaultValue": 0,
+      "uniqueId": "",
+      "createdISO": "2026-07-21T01:09:31.104Z",
+      "gameId": "scHdunWbiFdqcVinaXbX",
+      "variableId": "PtnZrETvj4h5BDzh5D8D",
+      "gameEventId": "playerChoosesTrialNominee"
+    },
+    {
+      "name": "fromPlayerId",
+      "type": "NUMBER",
+      "description": "",
+      "defaultValue": 0,
+      "uniqueId": "",
+      "createdISO": "2026-07-21T01:09:31.104Z",
+      "gameId": "scHdunWbiFdqcVinaXbX",
+      "variableId": "aUHrdK8HmWw17i96Kcsi",
+      "gameEventId": "playerChoosesTrialNominee"
+    }
+  ]
+}

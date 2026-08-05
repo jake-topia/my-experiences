@@ -1,0 +1,13 @@
+{
+  "gameId": "OJMSvhJNq1lBzExJVMr3",
+  "name": "logo",
+  "description": "",
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-12T20:32:11.628Z",
+  "uniqueId": "",
+  "stageId": "logo",
+  "webImageOptions": {
+    "topUrl": "",
+    "bottomUrl": "https://i.imgur.com/v4M1vag.png"
+  }
+}

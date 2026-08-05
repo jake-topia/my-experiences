@@ -1,0 +1,23 @@
+{
+  "gameId": "UJkR6vQN474DtZu3jtdP",
+  "webImageOptions": null,
+  "rectOptions": {
+    "borderRadius": 0,
+    "strokeWeight": 0,
+    "topAdjust": 0,
+    "width": "20",
+    "fill": "#000000",
+    "opacity": 1,
+    "displayLayer": "BOTTOM",
+    "stroke": "#ff0000",
+    "height": "20"
+  },
+  "spriteId": "hitbox",
+  "textOptions": null,
+  "name": "hitbox",
+  "ellipseOptions": null,
+  "type": "RECT",
+  "createdISO": "2025-10-09T01:39:16.816Z",
+  "uniqueId": "",
+  "variables": []
+}

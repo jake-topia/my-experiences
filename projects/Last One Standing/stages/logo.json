@@ -1,0 +1,13 @@
+{
+  "gameId": "qU2KFAvzqkzWyUUEK196",
+  "webImageOptions": {
+    "topUrl": "https://ee-last-one-standing.s3.us-east-1.amazonaws.com/Background.PNG",
+    "bottomUrl": ""
+  },
+  "name": "logo",
+  "description": "",
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-03T20:36:31.750Z",
+  "uniqueId": "",
+  "stageId": "logo"
+}

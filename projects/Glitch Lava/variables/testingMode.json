@@ -1,0 +1,11 @@
+{
+  "gameId": "ua3HjZesrGJoEIgILWaf",
+  "defaultValue": false,
+  "scope": "SERVER",
+  "name": "testingMode",
+  "description": "",
+  "type": "BOOLEAN",
+  "variableId": "testingMode",
+  "createdISO": "2026-06-24T18:38:45.407Z",
+  "uniqueId": ""
+}

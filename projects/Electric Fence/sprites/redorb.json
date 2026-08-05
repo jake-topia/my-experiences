@@ -1,0 +1,18 @@
+{
+  "gameId": "t4fX3gjnkkhVJmK4K79x",
+  "variables": [],
+  "spriteWorkspaceString": null,
+  "rectOptions": null,
+  "webImageOptions": {
+    "topAdjust": 0,
+    "topUrl": "https://topia-games-imagery.s3.us-east-1.amazonaws.com/sharks%2Band%2Bminnows/Red-Electric-orb.png",
+    "bottomUrl": ""
+  },
+  "spriteId": "redorb",
+  "textOptions": null,
+  "name": "redorb",
+  "ellipseOptions": null,
+  "type": "WEB_IMAGE",
+  "createdISO": "2026-06-24T18:34:55.427Z",
+  "uniqueId": ""
+}

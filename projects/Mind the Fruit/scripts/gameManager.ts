@@ -249,11 +249,12 @@ class gameManager extends SystemScript {
 
     const alivePlayerIds = this.getAlivePlayerIds();
     const playerLifeMap = stateManager.getVariable("playerLifeMap");
-    const playerCurrentTileMap = stateManager.getVariable("playerCurrentTileMap");
     const eliminatedPlayerIds: number[] = [];
     const survivingPlayerIds: number[] = [];
+    const incorrectOccupiedTileMap: Record<string, any> = {};
 
     this.tileManager.refreshPlayerCurrentTileMap(alivePlayerIds);
+    const playerCurrentTileMap = stateManager.getVariable("playerCurrentTileMap");
 
     for (let i = 0; i < alivePlayerIds.length; i++) {
       const playerId = alivePlayerIds[i];
@@ -262,6 +263,10 @@ class gameManager extends SystemScript {
       if (isSafe) {
         survivingPlayerIds.push(playerId);
       } else {
+        const incorrectTileId = playerCurrentTileMap[playerId.toString()];
+        if (incorrectTileId) {
+          incorrectOccupiedTileMap[incorrectTileId] = true;
+        }
         playerLifeMap[playerId.toString()] = false;
         delete playerCurrentTileMap[playerId.toString()];
         eliminatedPlayerIds.push(playerId);
@@ -277,7 +282,7 @@ class gameManager extends SystemScript {
       this.teleportPlayersToOutArea(eliminatedPlayerIds);
     }
 
-    this.tileManager.showSafeResults();
+    this.tileManager.showSafeResults(Object.keys(incorrectOccupiedTileMap));
 
     if (survivingPlayerIds.length === 1) {
       this.shouldReplayRound = false;
@@ -344,7 +349,7 @@ class gameManager extends SystemScript {
     this.lastCenterCountdownText = "";
     this.lastWinnerCountdownText = "";
 
-    this.tileManager.hideAllTiles();
+    this.tileManager.showBareTiles();
     this.arenaManager.showWinner(winnerName);
     this.triggerWinnerParticleEffect(playerId);
     this.refreshPlayerList();

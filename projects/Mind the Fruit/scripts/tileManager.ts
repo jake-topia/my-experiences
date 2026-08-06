@@ -272,9 +272,10 @@ class tileManager extends SystemScript {
     }
   }
 
-  showSafeResults() {
+  showSafeResults(incorrectOccupiedTileIds?: string[]) {
     if (!playerManager.isHost) return;
 
+    this.removeIncorrectFlashSprites();
     const safeTileMap = stateManager.getVariable("safeTileMap");
     const tileFruitMap = stateManager.getVariable("tileFruitMap");
 
@@ -283,21 +284,106 @@ class tileManager extends SystemScript {
       const tileData = this.tileDataById[tileId];
       const isSafe = safeTileMap[tileId] === true;
 
-      if (isSafe) {
-        this.setTileSprite(
-          tileData,
-          this.getTileSpriteName(tileData.row, tileData.col),
-        );
-      } else {
-        this.removeTileSprite(tileData);
-      }
+      this.setTileSprite(
+        tileData,
+        this.getTileSpriteName(tileData.row, tileData.col),
+      );
       this.setTileFruitDisplay(tileId, tileFruitMap[tileId] || "", isSafe);
+    }
+
+    this.flashIncorrectTiles(incorrectOccupiedTileIds || []);
+  }
+
+  flashIncorrectTiles(tileIds: string[]) {
+    if (!playerManager.isHost) return;
+
+    const safeTileMap = stateManager.getVariable("safeTileMap");
+    const seenTileIds: Record<string, any> = {};
+    const flashSprites: PseudoSprite[] = [];
+    const flashSpriteIds: string[] = [];
+
+    for (let i = 0; i < tileIds.length; i++) {
+      const tileId = tileIds[i];
+      const tileData = this.tileDataById[tileId];
+      if (!tileData || safeTileMap[tileId] === true || seenTileIds[tileId]) {
+        continue;
+      }
+
+      seenTileIds[tileId] = true;
+      const flashSpriteId = tileId + "_incorrect_flash";
+      if (spriteManager.getSprite(flashSpriteId)) {
+        spriteManager.removeSprite(flashSpriteId);
+      }
+
+      const flashSprite = spriteManager.addSprite("tile", {
+        uniqueId: flashSpriteId,
+        positionX: tileData.positionX,
+        positionY: tileData.positionY,
+        width: this.tileSize,
+        height: this.tileSize,
+        fill: "#ff002b",
+        strokeColor: "#8f0018",
+        strokeWeight: 5,
+        borderRadius: 0,
+        opacity: 0,
+        displayLayer: "top",
+        topAdjust: 1,
+        isInteractive: false,
+        applyPhysics: false,
+        checkCollisions: false,
+        isImpassable: false,
+      });
+
+      flashSprites.push(flashSprite);
+      flashSpriteIds.push(flashSpriteId);
+    }
+
+    if (flashSprites.length === 0) return;
+
+    timerManager.animate({
+      targets: flashSprites,
+      keyframes: {
+        0: { opacity: "0" },
+        8: { opacity: "0.95" },
+        20: { opacity: "0.15" },
+        32: { opacity: "1" },
+        46: { opacity: "0.12" },
+        60: { opacity: "1" },
+        76: { opacity: "0.1" },
+        88: { opacity: "0.85" },
+        100: { opacity: "0" },
+      },
+      duration: 1200,
+      loop: false,
+      alternate: false,
+      playbackEase: "Linear",
+      onComplete: () => {
+        if (!playerManager.isHost) return;
+
+        for (let i = 0; i < flashSpriteIds.length; i++) {
+          if (spriteManager.getSprite(flashSpriteIds[i])) {
+            spriteManager.removeSprite(flashSpriteIds[i]);
+          }
+        }
+      },
+    });
+  }
+
+  removeIncorrectFlashSprites() {
+    if (!playerManager.isHost) return;
+
+    for (let i = 0; i < this.tileIds.length; i++) {
+      const flashSpriteId = this.tileIds[i] + "_incorrect_flash";
+      if (spriteManager.getSprite(flashSpriteId)) {
+        spriteManager.removeSprite(flashSpriteId);
+      }
     }
   }
 
   restoreAllTiles() {
     if (!playerManager.isHost) return;
 
+    this.removeIncorrectFlashSprites();
     for (let i = 0; i < this.tileIds.length; i++) {
       const tileId = this.tileIds[i];
       const tileData = this.tileDataById[tileId];
@@ -310,14 +396,18 @@ class tileManager extends SystemScript {
     }
   }
 
-  hideAllTiles() {
+  showBareTiles() {
     if (!playerManager.isHost) return;
 
+    this.removeIncorrectFlashSprites();
     for (let i = 0; i < this.tileIds.length; i++) {
       const tileId = this.tileIds[i];
       const tileData = this.tileDataById[tileId];
 
-      this.removeTileSprite(tileData);
+      this.setTileSprite(
+        tileData,
+        this.getTileSpriteName(tileData.row, tileData.col),
+      );
       this.hideTileFruitDisplay(tileData);
       spriteManager.updateSprite(tileData.labelId, {
         text: "",
@@ -328,7 +418,7 @@ class tileManager extends SystemScript {
 
   clearAll() {
     if (!playerManager.isHost) return;
-    this.hideAllTiles();
+    this.showBareTiles();
     this.removeAllFruitSprites();
   }
 
